@@ -1,0 +1,67 @@
+{
+    "textos": [
+        {
+            "id": 1,
+            "contenido": "綠茶婊 / 绿茶婊",
+            "significado": "Green tea bitch (a girl who appears innocent but is actually calculating and manipulative)",
+            "dia": "2026-01-08",
+            "tags": ["curse words", "髒話 / 脏话"]
+        },
+        {
+            "id": 2,
+            "contenido": "他妈的",
+            "significado": "Oh crap, shit",
+            "dia": "2026-01-08",
+            "tags": ["curse words", "髒話 / 脏话"]
+        },
+        {
+            "id": 3,
+            "contenido": "我肏",
+            "significado": "Fuck",
+            "dia": "2026-01-08",
+            "tags": ["curse words", "髒話 / 脏话"]
+        },
+        {
+            "id": 4,
+            "contenido": "我肏",
+            "significado": "Oh crap, shit",
+            "dia": "2026-01-08",
+            "tags": ["curse words", "髒話 / 脏话"]
+        },
+        {
+            "id": 5,
+            "contenido": "我草",
+            "significado": "gentler alternative to 我肏",
+            "dia": "2026-01-08",
+            "tags": ["curse words", "髒話 / 脏话"]
+        },
+        {
+            "id": 6,
+            "contenido": "我靠",
+            "significado": "gentler alternative to 我肏",
+            "dia": "2026-01-08",
+            "tags": ["curse words", "髒話 / 脏话"]
+        },
+        {
+            "id": 7,
+            "contenido": "我去",
+            "significado": "gentler alternative to 我肏",
+            "dia": "2026-01-08",
+            "tags": ["curse words", "髒話 / 脏话"]
+        },
+        {
+            "id": 8,
+            "contenido": "蕭條 / 萧条",
+            "significado": "Sketchy",
+            "dia": "2026-01-03",
+            "tags": ["vocabulary", "adjectives"]
+        },
+        {
+            "id": 9,
+            "contenido": "囤",
+            "significado": "To buy something but not use it",
+            "dia": "2026-01-03",
+            "tags": ["vocabulary", "verbs"]
+        }
+    ]
+}

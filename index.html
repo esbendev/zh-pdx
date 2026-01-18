@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chinese PDX - search tool</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+
+<body>
+    <main>
+        <!-- search bar (more of a filter bar, no need to click search) -->
+        <input type="text" id="search-bar" placeholder="write anything to filter... (english, 中文, dates, or tags)">
+        <div class="results" id="results">
+            <!-- search results will be displayed here -->
+        </div>
+    </main>
+    <script>
+        // fetch data from JSON file
+        async function fetchData() {
+            // const response = await fetch('contenido/palabras-y-frases.json');
+            const now = new Date();
+            const timestamp = now.getTime();
+            const response = await fetch(`contenido/palabras-y-frases.json?timestamp=${timestamp}`);
+            const data = await response.json();
+            return data;
+        }
+
+        // add data to  the results div
+        function displayResults(data) {
+            const resultsDiv = document.getElementById('results');
+            resultsDiv.innerHTML = '';
+            const list = Array.isArray(data) ? data : (data && data.textos) || [];
+            list.forEach(item => {
+                const itemDiv = document.createElement('div');
+                itemDiv.className = 'tarjeta-resultado';
+                itemDiv.innerHTML = `
+                    <span class="dia">${escapeHtml(item.dia || '')}</span>
+                    <span class="contenido"><strong>${escapeHtml(item.contenido)}</strong></span>
+                    <span class="significado">${escapeHtml(item.significado)}</span>
+                    <span class="tags">
+                        ${item.tags.map(tag => `<span class="tag">${escapeHtml(tag)}</span>`).join(' ')}
+                    </span>
+                `;
+                resultsDiv.appendChild(itemDiv);
+            });
+        }
+
+        function escapeHtml(str) {
+            return String(str || '').replace(/[&<>"']/g, s => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[s]));
+        }
+
+        (async function init() {
+            const all = await fetchData();
+            const textos = (all && all.textos) || [];
+            const searchBar = document.getElementById('search-bar');
+            displayResults(textos);
+            searchBar.addEventListener('input', e => {
+                const q = e.target.value.trim().toLowerCase();
+                if (!q) { displayResults(textos); return; }
+                const filtered = textos.filter(it =>
+                    (it.contenido || '').toLowerCase().includes(q) ||
+                    (it.significado || '').toLowerCase().includes(q) ||
+                    (it.dia || '').toLowerCase().includes(q) || // Added to search in the 'dia' field
+                    String(it.id || '').includes(q) ||
+                    (it.tags || []).some(tag => tag.toLowerCase().includes(q))
+                );
+                displayResults(filtered);
+            });
+        })();
+    </script>
+</body>
+
+</html>

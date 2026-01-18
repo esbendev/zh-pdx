@@ -1,0 +1,127 @@
+:root {
+    --font-size-base: 1.2rem;
+    /* Base font size in rem for scalability */
+    --padding-base: 0.625rem;
+    /* 10px / 16px */
+    --margin-base: 1.25rem;
+    /* 20px / 16px */
+    --card-width: 13.75rem;
+    /* 220px / 16px */
+    --card-height: 7.5rem;
+    /* 120px / 16px */
+    --card-border-radius: 0.3125rem;
+    /* 5px / 16px */
+    --card-box-shadow: 0.125rem 0.125rem 0.3125rem rgba(0, 0, 0, 0.1);
+    /* 2px, 2px, 5px / 16px */
+    --gap-size: 1rem;
+    /* 16px / 16px */
+    /* CSS HEX */
+    --midnight-violet: #242038ff;
+    --slate-blue: #725ac1ff;
+    --soft-periwinkle: #8d86c9ff;
+    --pale-slate: #cac4ceff;
+    --linen: #f7ece1ff;
+    
+    /* CSS HSL */
+    --midnight-violet: hsla(250, 27%, 17%, 1);
+    --slate-blue: hsla(254, 45%, 55%, 1);
+    --soft-periwinkle: hsla(246, 38%, 66%, 1);
+    --pale-slate: hsla(276, 9%, 79%, 1);
+    --linen: hsla(30, 58%, 93%, 1);
+}
+
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: var(--margin-base);
+    background-color: var(--linen);
+}
+
+#search-bar {
+    width: 100%;
+    padding: var(--padding-base);
+    font-size: var(--font-size-base);
+    margin-bottom: var(--margin-base);
+    box-sizing: border-box;
+    background-color: var(--linen);
+    border: 1px solid black;
+    border-radius: var(--card-border-radius);
+}
+
+div.results {
+    margin-top: var(--margin-base);
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--gap-size);
+    align-items: flex-start;
+}
+
+.tarjeta-resultado {
+    flex: 0 0 var(--card-width);
+    width: var(--card-width);
+    min-height: var(--card-height);
+    box-sizing: border-box;
+    border: 0px;
+    padding: var(--padding-base);
+    border-radius: var(--card-border-radius);
+    box-shadow: var(--card-box-shadow);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    background-color: white;
+}
+
+.tarjeta-resultado .contenido {
+    font-size: calc(var(--font-size-base) * 1.125);
+    margin-top: var(--padding-base);
+    margin-bottom: var(--padding-base);
+    color: var(--slate-blue);
+    white-space: normal;
+    word-wrap: break-word;
+}
+
+.tarjeta-resultado .significado {
+    font-size: calc(var(--font-size-base) * 0.875);
+    color: #666;
+    white-space: normal;
+    word-wrap: break-word;
+    margin-bottom: var(--padding-base);
+}
+
+.tarjeta-resultado .dia {
+    margin-top: var(--padding-base);
+    font-size: calc(var(--font-size-base) * 0.75);
+    color: white;
+    background-color: var(--midnight-violet);
+    border-radius: var(--card-border-radius);
+    width: fit-content;
+    padding: calc(var(--padding-base) * 0.5) calc(var(--padding-base) * 0.75);
+    margin-left: auto;
+}
+
+.tarjeta-resultado .tags {
+    margin-top: var(--padding-base);
+    display: flex;
+    flex-wrap: wrap;
+    gap: calc(var(--padding-base) * 0.5);
+}
+
+.tarjeta-resultado .tag {
+    font-size: calc(var(--font-size-base) * 0.75);
+    color: white;
+    border-radius: var(--card-border-radius);
+    padding: calc(var(--padding-base) * 0.25) calc(var(--padding-base) * 0.5);
+    white-space: nowrap;
+    background-color: var(--soft-periwinkle);
+}
