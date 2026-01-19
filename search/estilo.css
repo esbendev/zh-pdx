@@ -21,7 +21,7 @@
     --soft-periwinkle: #8d86c9ff;
     --pale-slate: #cac4ceff;
     --linen: #f7ece1ff;
-    
+
     /* CSS HSL */
     --midnight-violet: hsla(250, 27%, 17%, 1);
     --slate-blue: hsla(254, 45%, 55%, 1);
@@ -50,10 +50,14 @@ body {
     padding: var(--padding-base);
     font-size: var(--font-size-base);
     margin-bottom: var(--margin-base);
+    margin-top: var(--margin-base); /* Added margin at the top */
     box-sizing: border-box;
     background-color: var(--linen);
     border: 1px solid black;
     border-radius: var(--card-border-radius);
+    position: sticky;
+    top: var(--margin-base); /* Adjusted to include the margin */
+    z-index: 10;
 }
 
 div.results {
@@ -62,6 +66,7 @@ div.results {
     flex-wrap: wrap;
     gap: var(--gap-size);
     align-items: flex-start;
+    justify-content: center;
 }
 
 .tarjeta-resultado {
