@@ -19,7 +19,7 @@
 <body>
     <main>
         <!-- search bar (more of a filter bar, no need to click search) -->
-        <input type="text" id="search-bar" placeholder="write anything to filter... (english, 中文, dates, or tags)">
+        <input type="text" id="search-bar" placeholder="write anything to filter... (english, 中文, dates, or tags)" autofocus>
         <div class="results" id="results">
             <!-- search results will be displayed here -->
         </div>
@@ -46,6 +46,7 @@
                 itemDiv.innerHTML = `
                     <span class="dia">${escapeHtml(item.dia || '')}</span>
                     <span class="contenido"><strong>${escapeHtml(item.contenido)}</strong></span>
+                    <span class="pinyin">${escapeHtml(item.pinyin || '')}</span>
                     <span class="significado">${escapeHtml(item.significado)}</span>
                     <span class="tags">
                         ${item.tags.map(tag => `<span class="tag">${escapeHtml(tag)}</span>`).join(' ')}
@@ -59,23 +60,38 @@
             return String(str || '').replace(/[&<>"']/g, s => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[s]));
         }
 
-        (async function init() {
+        async function init() {
             const all = await fetchData();
             const textos = (all && all.textos) || [];
             const searchBar = document.getElementById('search-bar');
             displayResults(textos);
+            setupSearchBar(searchBar, textos);
+        }
+
+        function setupSearchBar(searchBar, textos) {
             searchBar.addEventListener('input', e => {
                 const q = e.target.value.trim().toLowerCase();
-                if (!q) { displayResults(textos); return; }
-                const filtered = textos.filter(it =>
-                    (it.contenido || '').toLowerCase().includes(q) ||
-                    (it.significado || '').toLowerCase().includes(q) ||
-                    (it.dia || '').toLowerCase().includes(q) || // Added to search in the 'dia' field
-                    String(it.id || '').includes(q) ||
-                    (it.tags || []).some(tag => tag.toLowerCase().includes(q))
-                );
+                if (!q) {
+                    displayResults(textos);
+                    return;
+                }
+                const filtered = filterResults(textos, q);
                 displayResults(filtered);
             });
+        }
+
+        function filterResults(textos, query) {
+            return textos.filter(it =>
+                (it.contenido || '').toLowerCase().includes(query) ||
+                (it.significado || '').toLowerCase().includes(query) ||
+                (it.dia || '').toLowerCase().includes(query) || // Added to search in the 'dia' field
+                String(it.id || '').includes(query) ||
+                (it.tags || []).some(tag => tag.toLowerCase().includes(query))
+            );
+        }
+
+        (function () {
+            init();
         })();
     </script>
 </body>

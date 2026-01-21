@@ -5,63 +5,169 @@
             "contenido": "綠茶婊 / 绿茶婊",
             "significado": "Green tea bitch (a girl who appears innocent but is actually calculating and manipulative)",
             "dia": "2026-01-08",
-            "tags": ["curse words", "髒話 / 脏话"]
+            "tags": [
+                "curse words",
+                "髒話 / 脏话"
+            ],
+            "pinyin": "lǜ chá biǎo"
         },
         {
             "id": 2,
             "contenido": "他妈的",
             "significado": "Oh crap, shit",
             "dia": "2026-01-08",
-            "tags": ["curse words", "髒話 / 脏话"]
+            "tags": [
+                "curse words",
+                "髒話 / 脏话"
+            ],
+            "pinyin": "tā mā de"
         },
         {
             "id": 3,
             "contenido": "我肏",
             "significado": "Fuck",
             "dia": "2026-01-08",
-            "tags": ["curse words", "髒話 / 脏话"]
+            "tags": [
+                "curse words",
+                "髒話 / 脏话"
+            ],
+            "pinyin": "wǒ cào"
         },
         {
             "id": 4,
             "contenido": "我肏",
             "significado": "Oh crap, shit",
             "dia": "2026-01-08",
-            "tags": ["curse words", "髒話 / 脏话"]
+            "tags": [
+                "curse words",
+                "髒話 / 脏话"
+            ],
+            "pinyin": "wǒ cào"
         },
         {
             "id": 5,
             "contenido": "我草",
             "significado": "gentler alternative to 我肏",
             "dia": "2026-01-08",
-            "tags": ["curse words", "髒話 / 脏话"]
+            "tags": [
+                "curse words",
+                "髒話 / 脏话"
+            ],
+            "pinyin": "wǒ cǎo"
         },
         {
             "id": 6,
             "contenido": "我靠",
             "significado": "gentler alternative to 我肏",
             "dia": "2026-01-08",
-            "tags": ["curse words", "髒話 / 脏话"]
+            "tags": [
+                "curse words",
+                "髒話 / 脏话"
+            ],
+            "pinyin": "wǒ kào"
         },
         {
             "id": 7,
             "contenido": "我去",
             "significado": "gentler alternative to 我肏",
             "dia": "2026-01-08",
-            "tags": ["curse words", "髒話 / 脏话"]
+            "tags": [
+                "curse words",
+                "髒話 / 脏话"
+            ],
+            "pinyin": "wǒ qù"
         },
         {
             "id": 8,
             "contenido": "蕭條 / 萧条",
             "significado": "Sketchy",
             "dia": "2026-01-03",
-            "tags": ["vocabulary", "adjectives"]
+            "tags": [
+                "vocabulary",
+                "adjectives"
+            ],
+            "pinyin": "xiāo tiáo"
         },
         {
             "id": 9,
             "contenido": "囤",
             "significado": "To buy something but not use it",
             "dia": "2026-01-03",
-            "tags": ["vocabulary", "verbs"]
+            "tags": [
+                "vocabulary",
+                "verbs"
+            ],
+            "pinyin": "tún"
+        },
+        {
+            "id": 10,
+            "contenido": "給力 / 给力",
+            "significado": "Awesome, cool",
+            "dia": "2026-01-17",
+            "tags": [
+                "slang"
+            ],
+            "pinyin": "gěi lì"
+        },
+        {
+            "id": 11,
+            "contenido": "666",
+            "significado": "Awesome, cool",
+            "dia": "2026-01-17",
+            "tags": [
+                "slang"
+            ],
+            "pinyin": "liù liù liù"
+        },
+        {
+            "id": 12,
+            "contenido": "菜鳥 / 菜鸟",
+            "significado": "Newbie, “noob”",
+            "dia": "2026-01-17",
+            "tags": [
+                "slang"
+            ],
+            "pinyin": "cài niǎo"
+        },
+        {
+            "id": 13,
+            "contenido": "吃瓜",
+            "significado": "Engage in gossip",
+            "dia": "2026-01-17",
+            "tags": [
+                "slang"
+            ],
+            "pinyin": "chī guā"
+        },
+        {
+            "id": 14,
+            "contenido": "八卦",
+            "significado": "Gossip",
+            "dia": "2026-01-17",
+            "tags": [
+                "slang"
+            ],
+            "pinyin": "bā guà"
+        },
+        {
+            "id": 15,
+            "contenido": "變態 / 变态",
+            "significado": "Pervert",
+            "dia": "2026-01-17",
+            "tags": [
+                "slang"
+            ],
+            "pinyin": "biàn tài"
+        },
+        {
+            "id": 16,
+            "contenido": "戴綠帽子 / 戴绿帽子",
+            "significado": "Be a cuckold, be cheated on",
+            "dia": "2026-01-17",
+            "tags": [
+                "slang"
+            ],
+            "pinyin": "dài lǜ mào zi"
         }
     ]
 }

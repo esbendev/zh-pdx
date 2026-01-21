@@ -104,6 +104,14 @@ div.results {
     margin-bottom: var(--padding-base);
 }
 
+.tarjeta-resultado .pinyin {
+    font-size: calc(var(--font-size-base) * 0.875);
+    color: var(--soft-periwinkle);
+    margin-bottom: var(--padding-base);
+    white-space: normal;
+    word-wrap: break-word;
+}
+
 .tarjeta-resultado .dia {
     margin-top: var(--padding-base);
     font-size: calc(var(--font-size-base) * 0.75);
