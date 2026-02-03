@@ -315,6 +315,149 @@
             "tags": [
                 "social media"
             ]
+        },
+        {
+            "id": 32,
+            "contenido": "手术",
+            "significado": "Surgery",
+            "dia": "2026-01-22",
+            "tags": [
+                "notes",
+                "from picture"
+            ],
+            "pinyin": "shou shù"
+        },
+        {
+            "id": 33,
+            "contenido": "取卵子",
+            "significado": "egg retrieval",
+            "dia": "2026-01-22",
+            "tags": [
+                "notes",
+                "from picture"
+            ],
+            "pinyin": "gǔ luǎn zi"
+        },
+        {
+            "id": 34,
+            "contenido": "保险",
+            "significado": "insurance",
+            "dia": "2026-01-22",
+            "tags": [
+                "notes",
+                "from picture"
+            ],
+            "pinyin": "bǎo xiǎn"
+        },
+        {
+            "id": 35,
+            "contenido": "保险付费",
+            "significado": "insurance pays",
+            "dia": "2026-01-22",
+            "tags": [
+                "notes",
+                "from picture"
+            ],
+            "pinyin": "bǎo xiǎn fù fèi"
+        },
+        {
+            "id": 36,
+            "contenido": "单亲",
+            "significado": "single parent",
+            "dia": "2026-01-22",
+            "tags": [
+                "notes",
+                "from picture"
+            ],
+            "pinyin": "dàn qīn"
+        },
+        {
+            "id": 37,
+            "contenido": "区域",
+            "significado": "region",
+            "dia": "2026-01-22",
+            "tags": [
+                "notes",
+                "from picture"
+            ],
+            "pinyin": "qù yù"
+        },
+        {
+            "id": 38,
+            "contenido": "拇指",
+            "significado": "thumb",
+            "dia": "2026-01-22",
+            "tags": [
+                "notes",
+                "from picture"
+            ],
+            "pinyin": "mǔ zhǐ"
+        },
+        {
+            "id": 39,
+            "contenido": "食指中指",
+            "significado": "index finger, middle finger",
+            "dia": "2026-01-22",
+            "tags": [
+                "notes",
+                "from picture"
+            ],
+            "pinyin": "shí zhǐ zhōng zhǐ"
+        },
+        {
+            "id": 40,
+            "contenido": "无名指",
+            "significado": "ring finger",
+            "dia": "2026-01-22",
+            "tags": [
+                "notes",
+                "from picture"
+            ],
+            "pinyin": "wú míng zhǐ"
+        },
+        {
+            "id": 41,
+            "contenido": "小指",
+            "significado": "little finger",
+            "dia": "2026-01-22",
+            "tags": [
+                "notes",
+                "from picture"
+            ],
+            "pinyin": "xiǎo zhǐ"
+        },
+        {
+            "id": 42,
+            "contenido": "雾",
+            "significado": "Fog8",
+            "dia": "2026-01-22",
+            "tags": [
+                "notes",
+                "from picture"
+            ],
+            "pinyin": "wù"
+        },
+        {
+            "id": 43,
+            "contenido": "举办",
+            "significado": "conduct/hold (a party)",
+            "dia": "2026-01-22",
+            "tags": [
+                "notes",
+                "from picture"
+            ],
+            "pinyin": "jǔ bàn"
+        },
+        {
+            "id": 44,
+            "contenido": "派对",
+            "significado": "Party",
+            "dia": "2026-01-22",
+            "tags": [
+                "notes",
+                "from picture"
+            ],
+            "pinyin": "pài duì"
         }
     ]
 }
