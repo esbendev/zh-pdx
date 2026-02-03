@@ -168,6 +168,153 @@
                 "slang"
             ],
             "pinyin": "dài lǜ mào zi"
+        },
+        {
+            "id": 17,
+            "contenido": "中",
+            "significado": "middle/center",
+            "dia": "2026-01-31",
+            "tags": [
+                "favorite chinese character"
+            ],
+            "pinyin": "zhōng"
+        },
+        {
+            "id": 18,
+            "contenido": "佛",
+            "significado": "Buddha/Buddhism",
+            "dia": "2026-01-31",
+            "tags": [
+                "favorite chinese character"
+            ],
+            "pinyin": "fó"
+        },
+        {
+            "id": 19,
+            "contenido": "會 / 会",
+            "significado": "can/will/meeting",
+            "dia": "2026-01-31",
+            "tags": [
+                "favorite chinese character"
+            ],
+            "pinyin": "huì"
+        },
+        {
+            "id": 20,
+            "contenido": "哭",
+            "significado": "cry",
+            "dia": "2026-01-31",
+            "tags": [
+                "favorite chinese character"
+            ],
+            "pinyin": "kū"
+        },
+        {
+            "id": 21,
+            "contenido": "人",
+            "significado": "person/people",
+            "dia": "2026-01-31",
+            "tags": [
+                "favorite chinese character"
+            ],
+            "pinyin": "rén"
+        },
+        {
+            "id": 22,
+            "contenido": "雷",
+            "significado": "thunder",
+            "dia": "2026-01-31",
+            "tags": [
+                "favorite chinese character"
+            ],
+            "pinyin": "léi"
+        },
+        {
+            "id": 23,
+            "contenido": "龜 / 龟",
+            "significado": "turtle",
+            "dia": "2026-01-31",
+            "tags": [
+                "favorite chinese character"
+            ],
+            "pinyin": "guī"
+        },
+        {
+            "id": 24,
+            "contenido": "家",
+            "significado": "family/home",
+            "dia": "2026-01-31",
+            "tags": [
+                "favorite chinese character"
+            ],
+            "pinyin": "jiā"
+        },
+        {
+            "id": 25,
+            "contenido": "爽",
+            "significado": "refreshing/invigorating",
+            "dia": "2026-01-31",
+            "tags": [
+                "favorite chinese character"
+            ],
+            "pinyin": "shuǎng"
+        },
+        {
+            "id": 26,
+            "contenido": "WeChat / 微信",
+            "significado": "WeChat",
+            "dia": "2026-01-22",
+            "tags": [
+                "social media"
+            ],
+            "pinyin": "wēi xìn"
+        },
+        {
+            "id": 27,
+            "contenido": "Rednote / 小紅書 / 小红书",
+            "significado": "Rednote",
+            "dia": "2026-01-22",
+            "tags": [
+                "social media"
+            ],
+            "pinyin": "xiǎo hóng shū"
+        },
+        {
+            "id": 28,
+            "contenido": "TikTok / 抖音",
+            "significado": "TikTok",
+            "dia": "2026-01-22",
+            "tags": [
+                "social media"
+            ],
+            "pinyin": "dǒu yīn"
+        },
+        {
+            "id": 29,
+            "contenido": "Lofter",
+            "significado": "Lofter",
+            "dia": "2026-01-22",
+            "tags": [
+                "social media"
+            ]
+        },
+        {
+            "id": 30,
+            "contenido": "Line",
+            "significado": "Line",
+            "dia": "2026-01-22",
+            "tags": [
+                "social media"
+            ]
+        },
+        {
+            "id": 31,
+            "contenido": "HelloTalk",
+            "significado": "HelloTalk",
+            "dia": "2026-01-22",
+            "tags": [
+                "social media"
+            ]
         }
     ]
 }
