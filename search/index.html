@@ -19,7 +19,8 @@
 <body>
     <main>
         <!-- search bar (more of a filter bar, no need to click search) -->
-        <input type="text" id="search-bar" placeholder="write anything to filter... (english, 中文, dates, or tags)" autofocus>
+        <input type="text" id="search-bar" placeholder="write anything to filter... (english, 中文, dates, or tags)"
+            autofocus>
         <div class="results" id="results">
             <!-- search results will be displayed here -->
         </div>
@@ -46,7 +47,7 @@
                 itemDiv.innerHTML = `
                     <span class="dia">${escapeHtml(item.dia || '')}</span>
                     <span class="contenido"><strong>${escapeHtml(item.contenido)}</strong></span>
-                    <span class="pinyin">${escapeHtml(item.pinyin || '')}</span>
+                    <span class="pinyin" onclick="playTextToSpeech('${escapeHtml(item.contenido)}')">${escapeHtml(item.pinyin || '')}</span>
                     <span class="significado">${escapeHtml(item.significado)}</span>
                     <span class="tags">
                         ${item.tags.map(tag => `<span class="tag">${escapeHtml(tag)}</span>`).join(' ')}
@@ -66,6 +67,39 @@
             const searchBar = document.getElementById('search-bar');
             displayResults(textos);
             setupSearchBar(searchBar, textos);
+
+            // Preload voices
+            const synth = window.speechSynthesis;
+            if ('speechSynthesis' in window) {
+                console.log('Initializing SpeechSynthesis...');
+                let retryCount = 0; // Initialize retry counter
+                const maxRetries = 10; // Set maximum retries
+
+                const loadVoicesWithRetry = () => {
+                    const voices = synth.getVoices();
+                    if (voices.length > 0) {
+                        console.log('Voices loaded:', voices);
+                    } else if (retryCount < maxRetries) {
+                        retryCount++;
+                        console.log(`Voices not loaded yet. Retrying... (${retryCount}/${maxRetries})`);
+                        setTimeout(loadVoicesWithRetry, 500); // Retry after 500ms
+                    } else {
+                        console.warn('Failed to load voices after maximum retries.');
+                    }
+                };
+
+                if (synth.getVoices().length > 0) {
+                    console.log('Voices already loaded:', synth.getVoices());
+                } else {
+                    console.log('Waiting for voices to load...');
+                    synth.onvoiceschanged = () => {
+                        console.log('Voices loaded via onvoiceschanged event.');
+                    }; // Wait for voices to load
+                    loadVoicesWithRetry(); // Start retry mechanism
+                }
+            } else {
+                console.warn('SpeechSynthesis API is not supported in this browser.');
+            }
         }
 
         function setupSearchBar(searchBar, textos) {
@@ -88,6 +122,36 @@
                 String(it.id || '').includes(query) ||
                 (it.tags || []).some(tag => tag.toLowerCase().includes(query))
             );
+        }
+
+        function playTextToSpeech(text) {
+            console.log('playTextToSpeech called with text:', text);
+
+            if (!('speechSynthesis' in window)) {
+                console.warn('Text-to-speech not supported in this browser.');
+                return;
+            }
+
+            const synth = window.speechSynthesis;
+            const voices = synth.getVoices();
+
+            if (voices.length === 0) {
+                console.warn('No voices available. Ensure voices are loaded during initialization.');
+                return;
+            }
+
+            const utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = 'zh-CN'; // Set language to Chinese
+            utterance.voice = voices.find(voice => voice.lang === 'zh-CN') || null;
+
+            if (!utterance.voice) {
+                console.warn('No Chinese voice found. Using default voice.');
+            } else {
+                console.log('Using voice:', utterance.voice);
+            }
+
+            synth.speak(utterance);
+            console.log('Speech synthesis started.');
         }
 
         (function () {
