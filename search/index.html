@@ -47,7 +47,7 @@
                 itemDiv.innerHTML = `
                     <span class="dia">${escapeHtml(item.dia || '')}</span>
                     <span class="contenido"><strong>${escapeHtml(item.contenido)}</strong></span>
-                    <span class="pinyin" onclick="playTextToSpeech('${escapeHtml(item.contenido)}')">${escapeHtml(item.pinyin || '')}</span>
+                    <span class="pinyin" onclick="playTextToSpeech('${escapeHtml(item.contenido)}')">${escapeHtml(item.pinyin + ' ▶️' || '')}</span>
                     <span class="significado">${escapeHtml(item.significado)}</span>
                     <span class="tags">
                         ${item.tags.map(tag => `<span class="tag">${escapeHtml(tag)}</span>`).join(' ')}
@@ -73,7 +73,7 @@
             if ('speechSynthesis' in window) {
                 console.log('Initializing SpeechSynthesis...');
                 let retryCount = 0; // Initialize retry counter
-                const maxRetries = 10; // Set maximum retries
+                const maxRetries = 4; // Set maximum retries
 
                 const loadVoicesWithRetry = () => {
                     const voices = synth.getVoices();
@@ -133,6 +133,13 @@
             }
 
             const synth = window.speechSynthesis;
+
+            // Stop any currently playing speech
+            if (synth.speaking) {
+                console.log('Stopping currently playing speech...');
+                synth.cancel();
+            }
+
             const voices = synth.getVoices();
 
             if (voices.length === 0) {
