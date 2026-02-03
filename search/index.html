@@ -157,7 +157,11 @@
                 console.log('Using voice:', utterance.voice);
             }
 
-            synth.speak(utterance);
+            if (!synth.speaking) {
+                synth.speak(utterance);
+            } else {
+                console.log('Speech synthesis is already in progress.');
+            }
             console.log('Speech synthesis started.');
         }
 
