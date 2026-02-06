@@ -1,5 +1,12 @@
 function playTextToSpeech(text) {
-    console.log('playTextToSpeech called with text:', text);
+    texto_limpio = ""
+    // if text has /, split and take last part
+    if (text.includes('/')) {
+        texto_limpio = text.split('/').slice(-1)[0].trim();
+    } else {
+        texto_limpio = text.trim();
+    }
+    console.log('playTextToSpeech called with text:', texto_limpio);
 
     if (!('speechSynthesis' in window)) {
         console.warn('Text-to-speech not supported in this browser.');
@@ -21,7 +28,7 @@ function playTextToSpeech(text) {
         return;
     }
 
-    const utterance = new SpeechSynthesisUtterance(text);
+    const utterance = new SpeechSynthesisUtterance(texto_limpio);
     utterance.lang = 'zh-CN'; // Set language to Chinese
     utterance.voice = voices.find(voice => voice.lang === 'zh-CN') || null;
 
