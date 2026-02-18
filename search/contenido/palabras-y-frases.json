@@ -458,6 +458,59 @@
                 "from picture"
             ],
             "pinyin": "pài duì"
+        },
+        {
+            "id": 45,
+            "contenido": "情人節 / 情人节",
+            "significado": "Valentine’s Day",
+            "dia": "2026-02-14",
+            "tags": [
+                "holiday"
+            ],
+            "pinyin": "qíng rén jié"
+        },
+        {
+            "id": 46,
+            "contenido": "春節 / 春节",
+            "significado": "Spring Festival",
+            "dia": "2026-02-14",
+            "tags": [
+                "holiday"
+            ],
+            "pinyin": "chūn jié"
+        },
+        {
+            "id": 47,
+            "contenido": "新年快樂 / 新年快乐",
+            "significado": "Happy New Year",
+            "dia": "2026-02-14",
+            "tags": [
+                "holiday",
+                "greeting"
+            ],
+            "pinyin": "xīn nián kuài lè"
+        },
+        {
+            "id": 48,
+            "contenido": "聲調 / 声调",
+            "significado": "Chinese tones",
+            "dia": "2026-02-14",
+            "tags": [
+                "language",
+                "linguistics"
+            ],
+            "pinyin": "shēng diào"
+        },
+        {
+            "id": 49,
+            "contenido": "變調 / 变调",
+            "significado": "tone sandhi",
+            "dia": "2026-02-14",
+            "tags": [
+                "language",
+                "linguistics"
+            ],
+            "pinyin": "biàn diào"
         }
     ]
 }
