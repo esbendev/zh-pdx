@@ -511,6 +511,36 @@
                 "linguistics"
             ],
             "pinyin": "biàn diào"
-        }
+        },
+        {
+            "id": 50,
+            "contenido": "紅包 / 红包",
+            "significado": "Red envelope",
+            "dia": "2026-02-19",
+            "tags": [
+                "new year"
+            ],
+            "pinyin": "hóng bāo"
+        },
+        {
+            "id": 51,
+            "contenido": "包餃子 / 包饺子",
+            "significado": "To make dumplings",
+            "dia": "2026-02-19",
+            "tags": [
+                "new year"
+            ],
+            "pinyin": "bāo jiǎo zi"
+        },
+        {
+            "id": 52,
+            "contenido": "吃餃子 / 吃饺子",
+            "significado": "To eat dumplings",
+            "dia": "2026-02-19",
+            "tags": [
+                "new year"
+            ],
+            "pinyin": "chī jiǎo zi"
+        } 
     ]
 }
