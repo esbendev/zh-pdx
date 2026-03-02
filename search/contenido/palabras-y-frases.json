@@ -541,6 +541,76 @@
                 "new year"
             ],
             "pinyin": "chī jiǎo zi"
-        } 
+        },
+        {
+            "id": 53,
+            "contenido": "交通",
+            "significado": "Transportation",
+            "dia": "2026-02-28",
+            "tags": [
+                "transportation"
+            ],
+            "pinyin": "jiāo tōng"
+        },
+        {
+            "id": 54,
+            "contenido": "公共交通",
+            "significado": "Take public transportation",
+            "dia": "2026-02-28",
+            "tags": [
+                "transportation"
+            ],
+            "pinyin": "gōng gòng jiāo tōng"
+        },
+        {
+            "id": 55,
+            "contenido": "巴士",
+            "significado": "Bus",
+            "dia": "2026-02-28",
+            "tags": [
+                "transportation"
+            ],
+            "pinyin": "bā shì"
+        },
+        {
+            "id": 56,
+            "contenido": "輕軌 / 轻轨",
+            "significado": "The MAX light rail",
+            "dia": "2026-02-28",
+            "tags": [
+                "transportation"
+            ],
+            "pinyin": "qīng guǐ"
+        },
+        {
+            "id": 57,
+            "contenido": "駕照 / 驾照",
+            "significado": "Driver’s licenses",
+            "dia": "2026-02-28",
+            "tags": [
+                "transportation"
+            ],
+            "pinyin": "jià zhào"
+        },
+        {
+            "id": 58,
+            "contenido": "走路",
+            "significado": "Walk",
+            "dia": "2026-02-28",
+            "tags": [
+                "transportation"
+            ],
+            "pinyin": "zǒu lù"
+        },
+        {
+            "id": 59,
+            "contenido": "騎自行車 / 骑自行车",
+            "significado": "Ride bikes",
+            "dia": "2026-02-28",
+            "tags": [
+                "transportation"
+            ],
+            "pinyin": "qí zì xíng chē"
+        }
     ]
 }
