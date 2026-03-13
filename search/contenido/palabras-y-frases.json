@@ -611,6 +611,206 @@
                 "transportation"
             ],
             "pinyin": "qí zì xíng chē"
+        },
+        {
+            "id": 60,
+            "contenido": "冬奧會 / 冬奥会",
+            "significado": "Winter Olympics",
+            "dia": "2026-03-05",
+            "tags": [
+                "olympics",
+                "winter olypics"
+            ],
+            "pinyin": "dōng ào huì"
+        },
+        {
+            "id": 61,
+            "contenido": "刺激",
+            "significado": "Exciting",
+            "dia": "2026-03-05",
+            "tags": [
+                "olympics",
+                "winter olypics"
+            ],
+            "pinyin": "cì jī"
+        },
+        {
+            "id": 62,
+            "contenido": "危險 / 危险",
+            "significado": "Dangerous",
+            "dia": "2026-03-05",
+            "tags": [
+                "olympics",
+                "winter olypics"
+            ],
+            "pinyin": "wéi xiǎn"
+        },
+        {
+            "id": 63,
+            "contenido": "花樣滑冰 / 花样滑冰",
+            "significado": "Figure skating",
+            "dia": "2026-03-05",
+            "tags": [
+                "olympics",
+                "winter olypics"
+            ],
+            "pinyin": "huā yàng huá bīng"
+        },
+        {
+            "id": 64,
+            "contenido": "滑雪",
+            "significado": "Skiing",
+            "dia": "2026-03-05",
+            "tags": [
+                "olympics",
+                "winter olypics"
+            ],
+            "pinyin": "huá xuě"
+        },
+        {
+            "id": 65,
+            "contenido": "冰壺 / 冰壶",
+            "significado": "Curling",
+            "dia": "2026-03-05",
+            "tags": [
+                "olympics",
+                "winter olypics"
+            ],
+            "pinyin": "bīng hú"
+        },
+        {
+            "id": 66,
+            "contenido": "單板滑雪 / 单板滑雪",
+            "significado": "Snowboarding",
+            "dia": "2026-03-05",
+            "tags": [
+                "olympics",
+                "winter olypics"
+            ],
+            "pinyin": "dān bǎn huá xuě"
         }
+        [
+            {
+                "id": 67,
+                "contenido": "冰上舞蹈",
+                "significado": "Ice dancing",
+                "dia": "2026-03-05",
+                "tags": [
+                    "olympics",
+                    "winter olympics"
+                ],
+                "pinyin": "bīng shàng wǔ dǎo"
+            },
+            {
+                "id": 68,
+                "contenido": "花樣溜冰 / 花样溜冰",
+                "significado": "Figure skating",
+                "dia": "2026-03-05",
+                "tags": [
+                    "olympics",
+                    "winter olympics"
+                ],
+                "pinyin": "huā yàng liū bīng"
+            },
+            {
+                "id": 69,
+                "contenido": "梗",
+                "significado": "Meme / stalk / stem",
+                "dia": "2026-03-05",
+                "tags": [
+                    "olympics",
+                    "winter olympics"
+                ],
+                "pinyin": "gěng"
+            },
+            {
+                "id": 70,
+                "contenido": "蒙古羊肉",
+                "significado": "Mongolian lamb",
+                "dia": "2026-03-05",
+                "tags": [
+                    "olympics",
+                    "winter olympics"
+                ],
+                "pinyin": "méng gǔ yáng ròu"
+            },
+            {
+                "id": 71,
+                "contenido": "鳳爪 / 凤爪",
+                "significado": "Chicken feet",
+                "dia": "2026-03-05",
+                "tags": [
+                    "olympics",
+                    "winter olympics"
+                ],
+                "pinyin": "fèng zhǎo"
+            },
+            {
+                "id": 72,
+                "contenido": "小籠包 / 小笼包",
+                "significado": "Steamed dumpling",
+                "dia": "2026-03-05",
+                "tags": [
+                    "olympics",
+                    "winter olympics"
+                ],
+                "pinyin": "xiǎo lóng bāo"
+            },
+            {
+                "id": 73,
+                "contenido": "水煮魚 / 水煮鱼",
+                "significado": "Sichuan poached sliced fish in hot chili oil",
+                "dia": "2026-03-05",
+                "tags": [
+                    "olympics",
+                    "winter olympics"
+                ],
+                "pinyin": "shuǐ zhǔ yú"
+            },
+            {
+                "id": 74,
+                "contenido": "點心 / 点心",
+                "significado": "Dim sum",
+                "dia": "2026-03-05",
+                "tags": [
+                    "olympics",
+                    "winter olympics"
+                ],
+                "pinyin": "diǎn xin"
+            },
+            {
+                "id": 75,
+                "contenido": "涼粉 / 凉粉",
+                "significado": "Grass jelly",
+                "dia": "2026-03-05",
+                "tags": [
+                    "olympics",
+                    "winter olympics"
+                ],
+                "pinyin": "liáng fěn"
+            },
+            {
+                "id": 76,
+                "contenido": "芒果",
+                "significado": "Mango",
+                "dia": "2026-03-05",
+                "tags": [
+                    "olympics",
+                    "winter olympics"
+                ],
+                "pinyin": "máng guǒ"
+            },
+            {
+                "id": 77,
+                "contenido": "榴槤 / 榴莲",
+                "significado": "Durian",
+                "dia": "2026-03-05",
+                "tags": [
+                    "olympics",
+                    "winter olympics"
+                ],
+                "pinyin": "liú lián"
+            }
+        ]
     ]
 }
