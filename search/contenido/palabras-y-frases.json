@@ -717,8 +717,7 @@
             "significado": "Meme / stalk / stem",
             "dia": "2026-03-05",
             "tags": [
-                "olympics",
-                "winter olympics"
+                "food"
             ],
             "pinyin": "gěng"
         },
@@ -728,8 +727,7 @@
             "significado": "Mongolian lamb",
             "dia": "2026-03-05",
             "tags": [
-                "olympics",
-                "winter olympics"
+                "food"
             ],
             "pinyin": "méng gǔ yáng ròu"
         },
@@ -739,8 +737,7 @@
             "significado": "Chicken feet",
             "dia": "2026-03-05",
             "tags": [
-                "olympics",
-                "winter olympics"
+                "food"
             ],
             "pinyin": "fèng zhǎo"
         },
@@ -750,8 +747,7 @@
             "significado": "Steamed dumpling",
             "dia": "2026-03-05",
             "tags": [
-                "olympics",
-                "winter olympics"
+                "food"
             ],
             "pinyin": "xiǎo lóng bāo"
         },
@@ -761,8 +757,7 @@
             "significado": "Sichuan poached sliced fish in hot chili oil",
             "dia": "2026-03-05",
             "tags": [
-                "olympics",
-                "winter olympics"
+                "food"
             ],
             "pinyin": "shuǐ zhǔ yú"
         },
@@ -772,8 +767,7 @@
             "significado": "Dim sum",
             "dia": "2026-03-05",
             "tags": [
-                "olympics",
-                "winter olympics"
+                "food"
             ],
             "pinyin": "diǎn xin"
         },
@@ -783,8 +777,7 @@
             "significado": "Grass jelly",
             "dia": "2026-03-05",
             "tags": [
-                "olympics",
-                "winter olympics"
+                "food"
             ],
             "pinyin": "liáng fěn"
         },
@@ -794,8 +787,7 @@
             "significado": "Mango",
             "dia": "2026-03-05",
             "tags": [
-                "olympics",
-                "winter olympics"
+                "food"
             ],
             "pinyin": "máng guǒ"
         },
@@ -805,10 +797,388 @@
             "significado": "Durian",
             "dia": "2026-03-05",
             "tags": [
-                "olympics",
-                "winter olympics"
+                "food"
             ],
             "pinyin": "liú lián"
+        },
+        {
+            "id": 78,
+            "contenido": "夏令時 / 夏令时",
+            "significado": "Daylight saving time",
+            "dia": "2026-03-14",
+            "tags": [
+                "time"
+            ],
+            "pinyin": "xià lìng shí"
+        },
+        {
+            "id": 79,
+            "contenido": "冬令時 / 冬令时",
+            "significado": "Standard time",
+            "dia": "2026-03-14",
+            "tags": [
+                "time"
+            ],
+            "pinyin": "dōng lìng shí"
+        },
+        {
+            "id": 80,
+            "contenido": "教會 / 教会",
+            "significado": "Church (the organization)",
+            "dia": "2026-03-14",
+            "tags": [
+                "religion"
+            ],
+            "pinyin": "jiào huì"
+        },
+        {
+            "id": 81,
+            "contenido": "教堂",
+            "significado": "Church (the building)",
+            "dia": "2026-03-14",
+            "tags": [
+                "religion"
+            ],
+            "pinyin": "jiào táng"
+        },
+        {
+            "id": 82,
+            "contenido": "信教",
+            "significado": "To be religious",
+            "dia": "2026-03-14",
+            "tags": [
+                "religion"
+            ],
+            "pinyin": "xìn jiào"
+        },
+        {
+            "id": 83,
+            "contenido": "信佛",
+            "significado": "Believe in Buddhism/be Buddhist",
+            "dia": "2026-03-14",
+            "tags": [
+                "religion"
+            ],
+            "pinyin": "xìn fó"
+        },
+        {
+            "id": 84,
+            "contenido": "無神論者 / 无神论者",
+            "significado": "Atheist",
+            "dia": "2026-03-14",
+            "tags": [
+                "religion"
+            ],
+            "pinyin": "wú shén lùn zhě"
+        },
+        {
+            "id": 85,
+            "contenido": "不在乎",
+            "significado": "don't care",
+            "dia": "2026-03-14",
+            "tags": [
+                "emotion",
+                "common phrase"
+            ],
+            "pinyin": "bù zài hu"
+        },
+        {
+            "id": 86,
+            "contenido": "夏令时",
+            "significado": "Daylight Savings Time",
+            "dia": "2026-03-14",
+            "tags": [
+                "time"
+            ],
+            "pinyin": "xià lìng shí"
+        },
+        {
+            "id": 87,
+            "contenido": "改时间",
+            "significado": "to change the time",
+            "dia": "2026-03-14",
+            "tags": [
+                "time",
+                "action"
+            ],
+            "pinyin": "gǎi shí jiān"
+        },
+        {
+            "id": 88,
+            "contenido": "标准时间",
+            "significado": "normal (non-DST) time",
+            "dia": "2026-03-14",
+            "tags": [
+                "time"
+            ],
+            "pinyin": "biāo zhǔn shí jiān"
+        },
+        {
+            "id": 89,
+            "contenido": "永久夏令时",
+            "significado": "permanent DST",
+            "dia": "2026-03-14",
+            "tags": [
+                "time"
+            ],
+            "pinyin": "yǒng jiǔ xià lìng shí"
+        },
+        {
+            "id": 90,
+            "contenido": "改来改去",
+            "significado": "to change something back and forth",
+            "dia": "2026-03-14",
+            "tags": [
+                "action",
+                "common phrase"
+            ],
+            "pinyin": "gǎi lái gǎi qù"
+        },
+        {
+            "id": 91,
+            "contenido": "丢脸",
+            "significado": "to lose face",
+            "dia": "2026-03-14",
+            "tags": [
+                "culture",
+                "social"
+            ],
+            "pinyin": "diū liǎn"
+        },
+        {
+            "id": 92,
+            "contenido": "时区",
+            "significado": "time zone",
+            "dia": "2026-03-14",
+            "tags": [
+                "time",
+                "geography"
+            ],
+            "pinyin": "shí qū"
+        },
+        {
+            "id": 93,
+            "contenido": "发现",
+            "significado": "Find out, realize",
+            "dia": "2026-03-14",
+            "tags": [
+                "action",
+                "cognition"
+            ],
+            "pinyin": "fā xiàn"
+        },
+        {
+            "id": 94,
+            "contenido": "图书馆",
+            "significado": "library",
+            "dia": "2026-03-14",
+            "tags": [
+                "place",
+                "education"
+            ],
+            "pinyin": "tú shū guǎn"
+        },
+        {
+            "id": 95,
+            "contenido": "杂志",
+            "significado": "magazines",
+            "dia": "2026-03-14",
+            "tags": [
+                "media",
+                "reading"
+            ],
+            "pinyin": "zá zhì"
+        },
+        {
+            "id": 96,
+            "contenido": "工具",
+            "significado": "tools",
+            "dia": "2026-03-14",
+            "tags": [
+                "objects",
+                "work"
+            ],
+            "pinyin": "gōng jù"
+        },
+        {
+            "id": 97,
+            "contenido": "傳教士 / 传教士",
+            "significado": "missionary",
+            "dia": "2026-03-14",
+            "tags": [
+                "religion",
+                "people"
+            ],
+            "pinyin": "chuán jiào shì"
+        },
+        {
+            "id": 98,
+            "contenido": "牛",
+            "significado": "cow",
+            "dia": "2026-03-14",
+            "tags": [
+                "animals"
+            ],
+            "pinyin": "niú"
+        },
+        {
+            "id": 99,
+            "contenido": "牛逼",
+            "significado": "awesome, dope",
+            "dia": "2026-03-14",
+            "tags": [
+                "slang",
+                "colloquialism"
+            ],
+            "pinyin": "niú bī"
+        },
+        {
+            "id": 100,
+            "contenido": "犹太人",
+            "significado": "Jewish person or people",
+            "dia": "2026-03-14",
+            "tags": [
+                "religion",
+                "ethnicity"
+            ],
+            "pinyin": "yóu tài rén"
+        },
+        {
+            "id": 101,
+            "contenido": "犹太教",
+            "significado": "Judaism",
+            "dia": "2026-03-14",
+            "tags": [
+                "religion"
+            ],
+            "pinyin": "yóu tài jiào"
+        },
+        {
+            "id": 102,
+            "contenido": "摩门教",
+            "significado": "Mormonism",
+            "dia": "2026-03-14",
+            "tags": [
+                "religion"
+            ],
+            "pinyin": "mó mén jiào"
+        },
+        {
+            "id": 103,
+            "contenido": "耶稣基督后期圣徒教会",
+            "significado": "The Church of Jesus Christ of Latter-day Saints",
+            "dia": "2026-03-14",
+            "tags": [
+                "religion"
+            ],
+            "pinyin": "yē sū jī dū hòu qī shèng tú jiào huì"
+        },
+        {
+            "id": 104,
+            "contenido": "无神论者",
+            "significado": "an atheist",
+            "dia": "2026-03-14",
+            "tags": [
+                "religion",
+                "philosophy"
+            ],
+            "pinyin": "wú shén lùn zhě"
+        },
+        {
+            "id": 105,
+            "contenido": "无神论",
+            "significado": "atheism",
+            "dia": "2026-03-14",
+            "tags": [
+                "religion",
+                "philosophy"
+            ],
+            "pinyin": "wú shén lùn"
+        },
+        {
+            "id": 106,
+            "contenido": "闪卡",
+            "significado": "flashcard",
+            "dia": "2026-03-14",
+            "tags": [
+                "education",
+                "study tools"
+            ],
+            "pinyin": "shǎn kǎ"
+        },
+        {
+            "id": 107,
+            "contenido": "汉语水平考试",
+            "significado": "HSK test",
+            "dia": "2026-03-14",
+            "tags": [
+                "education",
+                "language"
+            ],
+            "pinyin": "hàn yǔ shuǐ píng kǎo shì"
+        },
+        {
+            "id": 108,
+            "contenido": "北京大学 (北大)",
+            "significado": "Beijing Univ.",
+            "dia": "2026-03-14",
+            "tags": [
+                "education",
+                "place"
+            ],
+            "pinyin": "běi jīng dà xué (běi dà)"
+        },
+        {
+            "id": 109,
+            "contenido": "教堂",
+            "significado": "church building",
+            "dia": "2026-03-14",
+            "tags": [
+                "religion",
+                "architecture"
+            ],
+            "pinyin": "jiào táng"
+        },
+        {
+            "id": 110,
+            "contenido": "信教",
+            "significado": "to hold religious beliefs",
+            "dia": "2026-03-14",
+            "tags": [
+                "religion",
+                "action"
+            ],
+            "pinyin": "xìn jiào"
+        },
+        {
+            "id": 111,
+            "contenido": "信佛",
+            "significado": "to be a Buddhist",
+            "dia": "2026-03-14",
+            "tags": [
+                "religion"
+            ],
+            "pinyin": "xìn fó"
+        },
+        {
+            "id": 112,
+            "contenido": "信耶稣",
+            "significado": "to believe in Christianity; to be a Christian",
+            "dia": "2026-03-14",
+            "tags": [
+                "religion"
+            ],
+            "pinyin": "xìn yē sū"
+        },
+        {
+            "id": 113,
+            "contenido": "巨型教会",
+            "significado": "megachurch",
+            "dia": "2026-03-14",
+            "tags": [
+                "religion"
+            ],
+            "pinyin": "jù xíng jiào huì"
         }
     ]
 }
