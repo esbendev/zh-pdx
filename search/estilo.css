@@ -169,3 +169,19 @@ select.sort-options {
     border: 1px solid black;
     border-radius: var(--card-border-radius);
 }
+
+footer {
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: var(--linen);
+    padding: var(--margin-base);
+    box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.1);
+    z-index: 9;
+}
+
+body {
+    padding-bottom: calc(60px + var(--margin-base));
+}
