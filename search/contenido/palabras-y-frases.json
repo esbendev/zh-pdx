@@ -1179,6 +1179,230 @@
                 "religion"
             ],
             "pinyin": "jù xíng jiào huì"
+        },
+        {
+            "id": 114,
+            "contenido": "自助餐",
+            "significado": "buffet",
+            "dia": "2026-03-19",
+            "tags": [
+                "food"
+            ],
+            "pinyin": "zì zhù cān"
+        },
+        {
+            "id": 115,
+            "contenido": "壽司 / 寿司",
+            "significado": "sushi",
+            "dia": "2026-03-19",
+            "tags": [
+                "food"
+            ],
+            "pinyin": "shòu sī"
+        },
+        {
+            "id": 116,
+            "contenido": "宵夜",
+            "significado": "midnight snack",
+            "dia": "2026-03-19",
+            "tags": [
+                "food"
+            ],
+            "pinyin": "xiāo yè"
+        },
+        {
+            "id": 117,
+            "contenido": "自助餐",
+            "significado": "buffet or cafeteria",
+            "dia": "2026-03-19",
+            "tags": [
+                "food"
+            ],
+            "pinyin": "zì zhù cān"
+        },
+        {
+            "id": 118,
+            "contenido": "上网",
+            "significado": "go online",
+            "dia": "2026-03-19",
+            "tags": [
+                "technology"
+            ],
+            "pinyin": "shàng wǎng"
+        },
+        {
+            "id": 119,
+            "contenido": "划算",
+            "significado": "worth the money; best value",
+            "dia": "2026-03-19",
+            "tags": [
+                "adjective"
+            ],
+            "pinyin": "huá suàn"
+        },
+        {
+            "id": 120,
+            "contenido": "选择",
+            "significado": "choose, select",
+            "dia": "2026-03-19",
+            "tags": [
+                "verb"
+            ],
+            "pinyin": "xuǎn zé"
+        },
+        {
+            "id": 121,
+            "contenido": "斋饭",
+            "significado": "special Buddhist vegetarian food",
+            "dia": "2026-03-19",
+            "tags": [
+                "food"
+            ],
+            "pinyin": "zhāi fàn"
+        },
+        {
+            "id": 122,
+            "contenido": "定位",
+            "significado": "reserve seats",
+            "dia": "2026-03-19",
+            "tags": [
+                "verb"
+            ],
+            "pinyin": "dìng wèi"
+        },
+        {
+            "id": 123,
+            "contenido": "麦当劳",
+            "significado": "McDonalds",
+            "dia": "2026-03-19",
+            "tags": [
+                "food",
+                "brand"
+            ],
+            "pinyin": "mài dāng láo"
+        },
+        {
+            "id": 124,
+            "contenido": "肯德基",
+            "significado": "KFC",
+            "dia": "2026-03-19",
+            "tags": [
+                "food",
+                "brand"
+            ],
+            "pinyin": "kěn dé jī"
+        },
+        {
+            "id": 125,
+            "contenido": "飞行员",
+            "significado": "pilot",
+            "dia": "2026-03-19",
+            "tags": [
+                "profession"
+            ],
+            "pinyin": "fēi xíng yuán"
+        },
+        {
+            "id": 126,
+            "contenido": "最后",
+            "significado": "finally; last",
+            "dia": "2026-03-19",
+            "tags": [
+                "adverb"
+            ],
+            "pinyin": "zuì hòu"
+        },
+        {
+            "id": 127,
+            "contenido": "终于",
+            "significado": "finally",
+            "dia": "2026-03-19",
+            "tags": [
+                "adverb"
+            ],
+            "pinyin": "zhōng yú"
+        },
+        {
+            "id": 128,
+            "contenido": "烧烤",
+            "significado": "BBQ",
+            "dia": "2026-03-19",
+            "tags": [
+                "food"
+            ],
+            "pinyin": "shāo kǎo"
+        },
+        {
+            "id": 129,
+            "contenido": "美元",
+            "significado": "USD, (formal) dollar",
+            "dia": "2026-03-19",
+            "tags": [
+                "currency"
+            ],
+            "pinyin": "měi yuán"
+        },
+        {
+            "id": 130,
+            "contenido": "纯素",
+            "significado": "vegan",
+            "dia": "2026-03-19",
+            "tags": [
+                "food",
+                "adjective"
+            ],
+            "pinyin": "chún sù"
+        },
+        {
+            "id": 131,
+            "contenido": "排除",
+            "significado": "eliminate",
+            "dia": "2026-03-19",
+            "tags": [
+                "verb"
+            ],
+            "pinyin": "pái chú"
+        },
+        {
+            "id": 132,
+            "contenido": "报告",
+            "significado": "a report",
+            "dia": "2026-03-19",
+            "tags": [
+                "noun"
+            ],
+            "pinyin": "bào gào"
+        },
+        {
+            "id": 133,
+            "contenido": "平台",
+            "significado": "platform, web platform",
+            "dia": "2026-03-19",
+            "tags": [
+                "technology"
+            ],
+            "pinyin": "píng tái"
+        },
+        {
+            "id": 134,
+            "contenido": "离婚",
+            "significado": "divorce",
+            "dia": "2026-03-19",
+            "tags": [
+                "relationship"
+            ],
+            "pinyin": "lí hūn"
+        },
+        {
+            "id": 135,
+            "contenido": "分手",
+            "significado": "break up",
+            "dia": "2026-03-19",
+            "tags": [
+                "relationship"
+            ],
+            "pinyin": "fēn shǒu"
         }
     ]
+]
 }
