@@ -1402,6 +1402,156 @@
                 "relationship"
             ],
             "pinyin": "fēn shǒu"
+        },
+        {
+            "id": 136,
+            "contenido": "抗议",
+            "significado": "protest",
+            "dia": "2026-03-28",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "kàng yì"
+        },
+        {
+            "id": 137,
+            "contenido": "不要国王",
+            "significado": "no king / down with the king",
+            "dia": "2026-03-28",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "bù yào guó wáng"
+        },
+        {
+            "id": 138,
+            "contenido": "示威",
+            "significado": "demonstration",
+            "dia": "2026-03-28",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "shì wēi"
+        },
+        {
+            "id": 139,
+            "contenido": "海报",
+            "significado": "poster",
+            "dia": "2026-03-28",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "hǎi bào"
+        },
+        {
+            "id": 140,
+            "contenido": "公布栏",
+            "significado": "bulletin board",
+            "dia": "2026-03-28",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "gōng bù lán"
+        },
+        {
+            "id": 141,
+            "contenido": "整齐",
+            "significado": "neat / orderly",
+            "dia": "2026-03-28",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "zhěng qí"
+        },
+        {
+            "id": 142,
+            "contenido": "园艺活动",
+            "significado": "gardening activities",
+            "dia": "2026-03-28",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "yuán yì huó dòng"
+        },
+        {
+            "id": 143,
+            "contenido": "打扫",
+            "significado": "cleaning",
+            "dia": "2026-03-28",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "dǎ sǎo"
+        },
+        {
+            "id": 144,
+            "contenido": "浴室",
+            "significado": "bathroom",
+            "dia": "2026-03-28",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "yù shì"
+        },
+        {
+            "id": 145,
+            "contenido": "后院",
+            "significado": "backyard",
+            "dia": "2026-03-28",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "hòu yuàn"
+        },
+        {
+            "id": 146,
+            "contenido": "剪草",
+            "significado": "mow the lawn",
+            "dia": "2026-03-28",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "jiǎn cǎo"
+        },
+        {
+            "id": 147,
+            "contenido": "养鸡",
+            "significado": "raise chickens",
+            "dia": "2026-03-28",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "yǎng jī"
+        },
+        {
+            "id": 148,
+            "contenido": "公鸡",
+            "significado": "rooster",
+            "dia": "2026-03-28",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "gōng jī"
+        },
+        {
+            "id": 149,
+            "contenido": "母鸡",
+            "significado": "hen",
+            "dia": "2026-03-28",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "mǔ jī"
+        },
+        {
+            "id": 150,
+            "contenido": "中等城市",
+            "significado": "mid-sized city",
+            "dia": "2026-03-28",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "zhōng děng chéng shì"
         }
     ]
 }
