@@ -13,7 +13,7 @@
         },
         {
             "id": 2,
-            "contenido": "他妈的",
+            "contenido": "他媽的 / 他妈的",
             "significado": "Oh crap, shit",
             "dia": "2026-01-08",
             "tags": [
@@ -318,7 +318,7 @@
         },
         {
             "id": 32,
-            "contenido": "手术",
+            "contenido": "手術 / 手术",
             "significado": "Surgery",
             "dia": "2026-01-22",
             "tags": [
@@ -340,7 +340,7 @@
         },
         {
             "id": 34,
-            "contenido": "保险",
+            "contenido": "保險 / 保险",
             "significado": "insurance",
             "dia": "2026-01-22",
             "tags": [
@@ -351,7 +351,7 @@
         },
         {
             "id": 35,
-            "contenido": "保险付费",
+            "contenido": "保險付費 / 保险付费",
             "significado": "insurance pays",
             "dia": "2026-01-22",
             "tags": [
@@ -362,7 +362,7 @@
         },
         {
             "id": 36,
-            "contenido": "单亲",
+            "contenido": "單親 / 单亲",
             "significado": "single parent",
             "dia": "2026-01-22",
             "tags": [
@@ -373,7 +373,7 @@
         },
         {
             "id": 37,
-            "contenido": "区域",
+            "contenido": "區域 / 区域",
             "significado": "region",
             "dia": "2026-01-22",
             "tags": [
@@ -406,7 +406,7 @@
         },
         {
             "id": 40,
-            "contenido": "无名指",
+            "contenido": "無名指 / 无名指",
             "significado": "ring finger",
             "dia": "2026-01-22",
             "tags": [
@@ -428,7 +428,7 @@
         },
         {
             "id": 42,
-            "contenido": "雾",
+            "contenido": "霧 / 雾",
             "significado": "Fog8",
             "dia": "2026-01-22",
             "tags": [
@@ -439,7 +439,7 @@
         },
         {
             "id": 43,
-            "contenido": "举办",
+            "contenido": "舉辦 / 举办",
             "significado": "conduct/hold (a party)",
             "dia": "2026-01-22",
             "tags": [
@@ -450,7 +450,7 @@
         },
         {
             "id": 44,
-            "contenido": "派对",
+            "contenido": "派對 / 派对",
             "significado": "Party",
             "dia": "2026-01-22",
             "tags": [
@@ -884,7 +884,7 @@
         },
         {
             "id": 86,
-            "contenido": "夏令时",
+            "contenido": "夏令時 / 夏令时",
             "significado": "Daylight Savings Time",
             "dia": "2026-03-14",
             "tags": [
@@ -894,7 +894,7 @@
         },
         {
             "id": 87,
-            "contenido": "改时间",
+            "contenido": "改時間 / 改时间",
             "significado": "to change the time",
             "dia": "2026-03-14",
             "tags": [
@@ -905,7 +905,7 @@
         },
         {
             "id": 88,
-            "contenido": "标准时间",
+            "contenido": "標準時間 / 标准时间",
             "significado": "normal (non-DST) time",
             "dia": "2026-03-14",
             "tags": [
@@ -915,7 +915,7 @@
         },
         {
             "id": 89,
-            "contenido": "永久夏令时",
+            "contenido": "永久夏令時 / 永久夏令时",
             "significado": "permanent DST",
             "dia": "2026-03-14",
             "tags": [
@@ -925,7 +925,7 @@
         },
         {
             "id": 90,
-            "contenido": "改来改去",
+            "contenido": "改來改去 / 改来改去",
             "significado": "to change something back and forth",
             "dia": "2026-03-14",
             "tags": [
@@ -936,7 +936,7 @@
         },
         {
             "id": 91,
-            "contenido": "丢脸",
+            "contenido": "丟臉 / 丢脸",
             "significado": "to lose face",
             "dia": "2026-03-14",
             "tags": [
@@ -947,7 +947,7 @@
         },
         {
             "id": 92,
-            "contenido": "时区",
+            "contenido": "時區 / 时区",
             "significado": "time zone",
             "dia": "2026-03-14",
             "tags": [
@@ -958,7 +958,7 @@
         },
         {
             "id": 93,
-            "contenido": "发现",
+            "contenido": "發現 / 发现",
             "significado": "Find out, realize",
             "dia": "2026-03-14",
             "tags": [
@@ -969,7 +969,7 @@
         },
         {
             "id": 94,
-            "contenido": "图书馆",
+            "contenido": "圖書館 / 图书馆",
             "significado": "library",
             "dia": "2026-03-14",
             "tags": [
@@ -980,7 +980,7 @@
         },
         {
             "id": 95,
-            "contenido": "杂志",
+            "contenido": "雜誌 / 杂志",
             "significado": "magazines",
             "dia": "2026-03-14",
             "tags": [
@@ -1034,7 +1034,7 @@
         },
         {
             "id": 100,
-            "contenido": "犹太人",
+            "contenido": "猶太人 / 犹太人",
             "significado": "Jewish person or people",
             "dia": "2026-03-14",
             "tags": [
@@ -1045,7 +1045,7 @@
         },
         {
             "id": 101,
-            "contenido": "犹太教",
+            "contenido": "猶太教 / 犹太教",
             "significado": "Judaism",
             "dia": "2026-03-14",
             "tags": [
@@ -1055,7 +1055,7 @@
         },
         {
             "id": 102,
-            "contenido": "摩门教",
+            "contenido": "摩門教 / 摩门教",
             "significado": "Mormonism",
             "dia": "2026-03-14",
             "tags": [
@@ -1065,7 +1065,7 @@
         },
         {
             "id": 103,
-            "contenido": "耶稣基督后期圣徒教会",
+            "contenido": "耶穌基督後期聖徒教會 / 耶稣基督后期圣徒教会",
             "significado": "The Church of Jesus Christ of Latter-day Saints",
             "dia": "2026-03-14",
             "tags": [
@@ -1075,7 +1075,7 @@
         },
         {
             "id": 104,
-            "contenido": "无神论者",
+            "contenido": "無神論者 / 无神论者",
             "significado": "an atheist",
             "dia": "2026-03-14",
             "tags": [
@@ -1086,7 +1086,7 @@
         },
         {
             "id": 105,
-            "contenido": "无神论",
+            "contenido": "無神論 / 无神论",
             "significado": "atheism",
             "dia": "2026-03-14",
             "tags": [
@@ -1097,7 +1097,7 @@
         },
         {
             "id": 106,
-            "contenido": "闪卡",
+            "contenido": "閃卡 / 闪卡",
             "significado": "flashcard",
             "dia": "2026-03-14",
             "tags": [
@@ -1108,7 +1108,7 @@
         },
         {
             "id": 107,
-            "contenido": "汉语水平考试",
+            "contenido": "漢語水平考試 / 汉语水平考试",
             "significado": "HSK test",
             "dia": "2026-03-14",
             "tags": [
@@ -1119,7 +1119,7 @@
         },
         {
             "id": 108,
-            "contenido": "北京大学 (北大)",
+            "contenido": "北京大學 (北大) / 北京大学 (北大)",
             "significado": "Beijing Univ.",
             "dia": "2026-03-14",
             "tags": [
@@ -1162,7 +1162,7 @@
         },
         {
             "id": 112,
-            "contenido": "信耶稣",
+            "contenido": "信耶穌 / 信耶稣",
             "significado": "to believe in Christianity; to be a Christian",
             "dia": "2026-03-14",
             "tags": [
@@ -1172,7 +1172,7 @@
         },
         {
             "id": 113,
-            "contenido": "巨型教会",
+            "contenido": "巨型教會 / 巨型教会",
             "significado": "megachurch",
             "dia": "2026-03-14",
             "tags": [
@@ -1222,7 +1222,7 @@
         },
         {
             "id": 118,
-            "contenido": "上网",
+            "contenido": "上網 / 上网",
             "significado": "go online",
             "dia": "2026-03-19",
             "tags": [
@@ -1232,7 +1232,7 @@
         },
         {
             "id": 119,
-            "contenido": "划算",
+            "contenido": "劃算 / 划算",
             "significado": "worth the money; best value",
             "dia": "2026-03-19",
             "tags": [
@@ -1242,7 +1242,7 @@
         },
         {
             "id": 120,
-            "contenido": "选择",
+            "contenido": "選擇 / 选择",
             "significado": "choose, select",
             "dia": "2026-03-19",
             "tags": [
@@ -1252,7 +1252,7 @@
         },
         {
             "id": 121,
-            "contenido": "斋饭",
+            "contenido": "齋飯 / 斋饭",
             "significado": "special Buddhist vegetarian food",
             "dia": "2026-03-19",
             "tags": [
@@ -1272,7 +1272,7 @@
         },
         {
             "id": 123,
-            "contenido": "麦当劳",
+            "contenido": "麥當勞 / 麦当劳",
             "significado": "McDonalds",
             "dia": "2026-03-19",
             "tags": [
@@ -1294,7 +1294,7 @@
         },
         {
             "id": 125,
-            "contenido": "飞行员",
+            "contenido": "飛行員 / 飞行员",
             "significado": "pilot",
             "dia": "2026-03-19",
             "tags": [
@@ -1304,7 +1304,7 @@
         },
         {
             "id": 126,
-            "contenido": "最后",
+            "contenido": "最後 / 最后",
             "significado": "finally; last",
             "dia": "2026-03-19",
             "tags": [
@@ -1314,7 +1314,7 @@
         },
         {
             "id": 127,
-            "contenido": "终于",
+            "contenido": "終於 / 终于",
             "significado": "finally",
             "dia": "2026-03-19",
             "tags": [
@@ -1324,7 +1324,7 @@
         },
         {
             "id": 128,
-            "contenido": "烧烤",
+            "contenido": "燒烤 / 烧烤",
             "significado": "BBQ",
             "dia": "2026-03-19",
             "tags": [
@@ -1344,7 +1344,7 @@
         },
         {
             "id": 130,
-            "contenido": "纯素",
+            "contenido": "純素 / 纯素",
             "significado": "vegan",
             "dia": "2026-03-19",
             "tags": [
@@ -1365,7 +1365,7 @@
         },
         {
             "id": 132,
-            "contenido": "报告",
+            "contenido": "報告 / 报告",
             "significado": "a report",
             "dia": "2026-03-19",
             "tags": [
@@ -1385,7 +1385,7 @@
         },
         {
             "id": 134,
-            "contenido": "离婚",
+            "contenido": "離婚 / 离婚",
             "significado": "divorce",
             "dia": "2026-03-19",
             "tags": [
@@ -1405,7 +1405,7 @@
         },
         {
             "id": 136,
-            "contenido": "抗议",
+            "contenido": "抗議 / 抗议",
             "significado": "protest",
             "dia": "2026-03-28",
             "tags": [
@@ -1415,7 +1415,7 @@
         },
         {
             "id": 137,
-            "contenido": "不要国王",
+            "contenido": "不要國王 / 不要国王",
             "significado": "no king / down with the king",
             "dia": "2026-03-28",
             "tags": [
@@ -1435,7 +1435,7 @@
         },
         {
             "id": 139,
-            "contenido": "海报",
+            "contenido": "海報 / 海报",
             "significado": "poster",
             "dia": "2026-03-28",
             "tags": [
@@ -1445,7 +1445,7 @@
         },
         {
             "id": 140,
-            "contenido": "公布栏",
+            "contenido": "公布欄 / 公布栏",
             "significado": "bulletin board",
             "dia": "2026-03-28",
             "tags": [
@@ -1455,7 +1455,7 @@
         },
         {
             "id": 141,
-            "contenido": "整齐",
+            "contenido": "整齊 / 整齐",
             "significado": "neat / orderly",
             "dia": "2026-03-28",
             "tags": [
@@ -1465,7 +1465,7 @@
         },
         {
             "id": 142,
-            "contenido": "园艺活动",
+            "contenido": "園藝活動 / 园艺活动",
             "significado": "gardening activities",
             "dia": "2026-03-28",
             "tags": [
@@ -1475,7 +1475,7 @@
         },
         {
             "id": 143,
-            "contenido": "打扫",
+            "contenido": "打掃 / 打扫",
             "significado": "cleaning",
             "dia": "2026-03-28",
             "tags": [
@@ -1495,7 +1495,7 @@
         },
         {
             "id": 145,
-            "contenido": "后院",
+            "contenido": "後院 / 后院",
             "significado": "backyard",
             "dia": "2026-03-28",
             "tags": [
@@ -1515,7 +1515,7 @@
         },
         {
             "id": 147,
-            "contenido": "养鸡",
+            "contenido": "養雞 / 养鸡",
             "significado": "raise chickens",
             "dia": "2026-03-28",
             "tags": [
@@ -1525,7 +1525,7 @@
         },
         {
             "id": 148,
-            "contenido": "公鸡",
+            "contenido": "公雞 / 公鸡",
             "significado": "rooster",
             "dia": "2026-03-28",
             "tags": [
@@ -1535,7 +1535,7 @@
         },
         {
             "id": 149,
-            "contenido": "母鸡",
+            "contenido": "母雞 / 母鸡",
             "significado": "hen",
             "dia": "2026-03-28",
             "tags": [
