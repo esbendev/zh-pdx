@@ -1419,7 +1419,8 @@
             "significado": "no king / down with the king",
             "dia": "2026-03-28",
             "tags": [
-                "vocabulary"
+                "no kings",
+                "protest"
             ],
             "pinyin": "bù yào guó wáng"
         },
@@ -1429,7 +1430,8 @@
             "significado": "demonstration",
             "dia": "2026-03-28",
             "tags": [
-                "vocabulary"
+                "no kings",
+                "protest"
             ],
             "pinyin": "shì wēi"
         },
@@ -1439,7 +1441,8 @@
             "significado": "poster",
             "dia": "2026-03-28",
             "tags": [
-                "vocabulary"
+                "no kings",
+                "protest"
             ],
             "pinyin": "hǎi bào"
         },
@@ -1449,7 +1452,8 @@
             "significado": "bulletin board",
             "dia": "2026-03-28",
             "tags": [
-                "vocabulary"
+                "no kings",
+                "protest"
             ],
             "pinyin": "gōng bù lán"
         },
@@ -1459,7 +1463,8 @@
             "significado": "neat / orderly",
             "dia": "2026-03-28",
             "tags": [
-                "vocabulary"
+                "no kings",
+                "protest"
             ],
             "pinyin": "zhěng qí"
         },
@@ -1469,7 +1474,7 @@
             "significado": "gardening activities",
             "dia": "2026-03-28",
             "tags": [
-                "vocabulary"
+                "things we hate"
             ],
             "pinyin": "yuán yì huó dòng"
         },
@@ -1479,7 +1484,7 @@
             "significado": "cleaning",
             "dia": "2026-03-28",
             "tags": [
-                "vocabulary"
+                "things we hate"
             ],
             "pinyin": "dǎ sǎo"
         },
@@ -1489,7 +1494,7 @@
             "significado": "bathroom",
             "dia": "2026-03-28",
             "tags": [
-                "vocabulary"
+                "things we hate"
             ],
             "pinyin": "yù shì"
         },
@@ -1499,7 +1504,7 @@
             "significado": "backyard",
             "dia": "2026-03-28",
             "tags": [
-                "vocabulary"
+                "things we hate"
             ],
             "pinyin": "hòu yuàn"
         },
@@ -1509,7 +1514,7 @@
             "significado": "mow the lawn",
             "dia": "2026-03-28",
             "tags": [
-                "vocabulary"
+                "things we hate"
             ],
             "pinyin": "jiǎn cǎo"
         },
@@ -1519,7 +1524,7 @@
             "significado": "raise chickens",
             "dia": "2026-03-28",
             "tags": [
-                "vocabulary"
+                "things we hate"
             ],
             "pinyin": "yǎng jī"
         },
@@ -1529,7 +1534,7 @@
             "significado": "rooster",
             "dia": "2026-03-28",
             "tags": [
-                "vocabulary"
+                "things we hate"
             ],
             "pinyin": "gōng jī"
         },
@@ -1539,7 +1544,7 @@
             "significado": "hen",
             "dia": "2026-03-28",
             "tags": [
-                "vocabulary"
+                "things we hate"
             ],
             "pinyin": "mǔ jī"
         },
@@ -1549,9 +1554,229 @@
             "significado": "mid-sized city",
             "dia": "2026-03-28",
             "tags": [
-                "vocabulary"
+                "things we hate"
             ],
             "pinyin": "zhōng děng chéng shì"
+        },
+        {
+            "id": 151,
+            "contenido": "听音乐",
+            "significado": "listen to music",
+            "dia": "2026-04-02",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "tīng yīn yuè"
+        },
+        {
+            "id": 152,
+            "contenido": "松鼠",
+            "significado": "squirrel",
+            "dia": "2026-04-02",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "sōng shǔ"
+        },
+        {
+            "id": 153,
+            "contenido": "大老鼠",
+            "significado": "rat",
+            "dia": "2026-04-02",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "dà lǎo shǔ"
+        },
+        {
+            "id": 154,
+            "contenido": "小老鼠",
+            "significado": "mouse",
+            "dia": "2026-04-02",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "xiǎo lǎo shǔ"
+        },
+        {
+            "id": 155,
+            "contenido": "浣熊",
+            "significado": "raccoon",
+            "dia": "2026-04-02",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "huàn xióng"
+        },
+        {
+            "id": 156,
+            "contenido": "熊猫",
+            "significado": "panda",
+            "dia": "2026-04-02",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "xióng māo"
+        },
+        {
+            "id": 157,
+            "contenido": "结婚",
+            "significado": "marry",
+            "dia": "2026-04-02",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "jié hūn"
+        },
+        {
+            "id": 158,
+            "contenido": "侄子",
+            "significado": "sibling's son",
+            "dia": "2026-04-02",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "zhí zi"
+        },
+        {
+            "id": 159,
+            "contenido": "叔叔",
+            "significado": "paternal younger brother",
+            "dia": "2026-04-02",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "shū shu"
+        },
+        {
+            "id": 160,
+            "contenido": "区码",
+            "significado": "area code",
+            "dia": "2026-04-02",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "qū mǎ"
+        },
+        {
+            "id": 161,
+            "contenido": "程序",
+            "significado": "program (computer)",
+            "dia": "2026-04-02",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "chéng xù"
+        },
+        {
+            "id": 162,
+            "contenido": "广阔",
+            "significado": "general / vast",
+            "dia": "2026-04-02",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "guǎng kuò"
+        },
+        {
+            "id": 163,
+            "contenido": "软件工程师",
+            "significado": "software programmer",
+            "dia": "2026-04-02",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "ruǎn jiàn gōng chéng shī"
+        },
+        {
+            "id": 164,
+            "contenido": "难",
+            "significado": "hard / difficult",
+            "dia": "2026-04-02",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "nán"
+        },
+        {
+            "id": 165,
+            "contenido": "关系",
+            "significado": "relationship / relation",
+            "dia": "2026-04-02",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "guān xi"
+        },
+        {
+            "id": 166,
+            "contenido": "刷手机",
+            "significado": "scroll through your phone",
+            "dia": "2026-04-02",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "shuā shǒu jī"
+        },
+        {
+            "id": 167,
+            "contenido": "逛街",
+            "significado": "window shopping",
+            "dia": "2026-04-02",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "guàng jiē"
+        },
+        {
+            "id": 168,
+            "contenido": "跑步",
+            "significado": "running",
+            "dia": "2026-04-02",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "pǎo bù"
+        },
+        {
+            "id": 169,
+            "contenido": "看电视",
+            "significado": "watch TV",
+            "dia": "2026-04-02",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "kàn diàn shì"
+        },
+        {
+            "id": 170,
+            "contenido": "洗衣服",
+            "significado": "do laundry",
+            "dia": "2026-04-02",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "xǐ yī fú"
+        },
+        {
+            "id": 171,
+            "contenido": "做饭",
+            "significado": "make food",
+            "dia": "2026-04-02",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "zuò fàn"
+        },
+        {
+            "id": 172,
+            "contenido": "钩针编织",
+            "significado": "crochet",
+            "dia": "2026-04-02",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "gōu zhēn biān zhī"
         }
     ]
 }
