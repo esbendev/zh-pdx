@@ -1777,6 +1777,216 @@
                 "vocabulary"
             ],
             "pinyin": "gōu zhēn biān zhī"
+        },
+        {
+            "id": 173,
+            "contenido": "苦瓜",
+            "significado": "bitter melon",
+            "dia": "2026-04-11",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "kǔ guā"
+        },
+        {
+            "id": 174,
+            "contenido": "肥肉",
+            "significado": "fatty meat",
+            "dia": "2026-04-11",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "féi ròu"
+        },
+        {
+            "id": 175,
+            "contenido": "牛肚子",
+            "significado": "cow stomach; tripe",
+            "dia": "2026-04-11",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "niú dù zi"
+        },
+        {
+            "id": 176,
+            "contenido": "鸡爪子",
+            "significado": "chicken feet",
+            "dia": "2026-04-11",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "jī zhuǎ zi"
+        },
+        {
+            "id": 177,
+            "contenido": "凤爪",
+            "significado": "chicken feet (dim sum style)",
+            "dia": "2026-04-11",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "fèng zhuǎ"
+        },
+        {
+            "id": 178,
+            "contenido": "酿茄子",
+            "significado": "stuffed eggplant",
+            "dia": "2026-04-11",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "niàng qié zi"
+        },
+        {
+            "id": 179,
+            "contenido": "移民",
+            "significado": "immigrant; to immigrate",
+            "dia": "2026-04-11",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "yí mín"
+        },
+        {
+            "id": 180,
+            "contenido": "本地人",
+            "significado": "local people",
+            "dia": "2026-04-11",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "běn dì rén"
+        },
+        {
+            "id": 181,
+            "contenido": "流利",
+            "significado": "fluent; fluid",
+            "dia": "2026-04-11",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "liú lì"
+        },
+        {
+            "id": 182,
+            "contenido": "方言",
+            "significado": "dialect",
+            "dia": "2026-04-11",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "fāng yán"
+        },
+        {
+            "id": 183,
+            "contenido": "文字",
+            "significado": "script; writing",
+            "dia": "2026-04-11",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "wén zì"
+        },
+        {
+            "id": 184,
+            "contenido": "希腊",
+            "significado": "Greece",
+            "dia": "2026-04-11",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "xī là"
+        },
+        {
+            "id": 185,
+            "contenido": "人参",
+            "significado": "ginseng",
+            "dia": "2026-04-11",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "rén shēn"
+        },
+        {
+            "id": 186,
+            "contenido": "味道",
+            "significado": "flavor",
+            "dia": "2026-04-11",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "wèi dào"
+        },
+        {
+            "id": 187,
+            "contenido": "巧克力",
+            "significado": "chocolate",
+            "dia": "2026-04-11",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "qiǎo kè lì"
+        },
+        {
+            "id": 188,
+            "contenido": "美金",
+            "significado": "USD",
+            "dia": "2026-04-16",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "měi jīn"
+        },
+        {
+            "id": 189,
+            "contenido": "美元",
+            "significado": "USD",
+            "dia": "2026-04-16",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "měi yuán"
+        },
+        {
+            "id": 190,
+            "contenido": "人民币",
+            "significado": "RMB; Chinese currency",
+            "dia": "2026-04-16",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "rén mín bì"
+        },
+        {
+            "id": 191,
+            "contenido": "港币",
+            "significado": "HKD",
+            "dia": "2026-04-16",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "gǎng bì"
+        },
+        {
+            "id": 192,
+            "contenido": "台币",
+            "significado": "NTD; Taiwanese dollar",
+            "dia": "2026-04-16",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "tái bì"
+        },
+        {
+            "id": 193,
+            "contenido": "欧元",
+            "significado": "Euro",
+            "dia": "2026-04-16",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "ōu yuán"
         }
     ]
 }
