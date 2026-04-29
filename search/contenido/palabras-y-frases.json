@@ -1988,5 +1988,170 @@
             ],
             "pinyin": "ōu yuán"
         }
+    {
+            "id": 194,
+            "contenido": "表哥",
+            "significado": "Male cousin (older, from female side)",
+            "dia": "2026-04-29",
+            "tags": [
+                "vocabulary",
+                "family"
+            ],
+            "pinyin": "biǎo gē"
+        },
+        {
+            "id": 195,
+            "contenido": "表弟",
+            "significado": "Male cousin (younger, from female side)",
+            "dia": "2026-04-29",
+            "tags": [
+                "vocabulary",
+                "family"
+            ],
+            "pinyin": "biǎo dì"
+        },
+        {
+            "id": 196,
+            "contenido": "你",
+            "significado": "You (casual/tú)",
+            "dia": "2026-04-29",
+            "tags": [
+                "vocabulary",
+                "pronoun"
+            ],
+            "pinyin": "nǐ"
+        },
+        {
+            "id": 197,
+            "contenido": "您",
+            "significado": "You (formal/usted)",
+            "dia": "2026-04-29",
+            "tags": [
+                "vocabulary",
+                "pronoun"
+            ],
+            "pinyin": "nín"
+        },
+        {
+            "id": 198,
+            "contenido": "您多大岁数了？",
+            "significado": "How old are you? (formal)",
+            "dia": "2026-04-29",
+            "tags": [
+                "phrase",
+                "etiquette"
+            ],
+            "pinyin": "nín duō dà suì shù le"
+        },
+        {
+            "id": 199,
+            "contenido": "你多大了？",
+            "significado": "How old are you? (casual)",
+            "dia": "2026-04-29",
+            "tags": [
+                "phrase",
+                "etiquette"
+            ],
+            "pinyin": "nǐ duō dà le"
+        },
+        {
+            "id": 200,
+            "contenido": "我的妈",
+            "significado": "OMG / Oh my god (lit. 'my mom')",
+            "dia": "2026-04-29",
+            "tags": [
+                "slang",
+                "exclamation"
+            ],
+            "pinyin": "wǒ de mā"
+        },
+        {
+            "id": 201,
+            "contenido": "你妈 / 他妈",
+            "significado": "Damn / Goddamn (lit. 'your mom' / 'his mom')",
+            "dia": "2026-04-29",
+            "tags": [
+                "slang",
+                "profanity"
+            ],
+            "pinyin": "nǐ mā / tā mā"
+        },
+        {
+            "id": 202,
+            "contenido": "阿姨",
+            "significado": "Aunt (used for women of parents' generation)",
+            "dia": "2026-04-29",
+            "tags": [
+                "vocabulary",
+                "addressing"
+            ],
+            "pinyin": "ā yí"
+        },
+        {
+            "id": 203,
+            "contenido": "叔叔",
+            "significado": "Uncle (used for men of parents' generation)",
+            "dia": "2026-04-29",
+            "tags": [
+                "vocabulary",
+                "addressing"
+            ],
+            "pinyin": "shū shu"
+        },
+        {
+            "id": 204,
+            "contenido": "伯伯",
+            "significado": "Uncle (father's older brother / respectful address)",
+            "dia": "2026-04-29",
+            "tags": [
+                "vocabulary",
+                "addressing"
+            ],
+            "pinyin": "bó bo"
+        },
+        {
+            "id": 205,
+            "contenido": "父母",
+            "significado": "Parents",
+            "dia": "2026-04-29",
+            "tags": [
+                "vocabulary",
+                "family"
+            ],
+            "pinyin": "fù mǔ"
+        },
+        {
+            "id": 206,
+            "contenido": "妈妈",
+            "significado": "Mom / Mommy",
+            "dia": "2026-04-29",
+            "tags": [
+                "vocabulary",
+                "family"
+            ],
+            "pinyin": "mā ma"
+        },
+        {
+            "id": 207,
+            "contenido": "爸爸",
+            "significado": "Dad / Daddy",
+            "dia": "2026-04-29",
+            "tags": [
+                "vocabulary",
+                "family"
+            ],
+            "pinyin": "bà ba"
+        },
+        {
+            "id": 208,
+            "contenido": "我妈",
+            "significado": "My mom (informal/close)",
+            "dia": "2026-04-29",
+            "tags": [
+                "grammar",
+                "family"
+            ],
+            "pinyin": "wǒ mā"
+        }
     ]
 }
