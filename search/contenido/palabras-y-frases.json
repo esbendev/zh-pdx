@@ -2152,6 +2152,270 @@
                 "family"
             ],
             "pinyin": "wǒ mā"
+        },
+        {
+            "id": 209,
+            "contenido": "铃兰",
+            "significado": "Lily of the valley",
+            "dia": "2026-04-30",
+            "tags": [
+                "vocabulary",
+                "nature"
+            ],
+            "pinyin": "líng lán"
+        },
+        {
+            "id": 210,
+            "contenido": "主意",
+            "significado": "Idea",
+            "dia": "2026-04-30",
+            "tags": [
+                "vocabulary",
+                "conversation"
+            ],
+            "pinyin": "zhǔ yi"
+        },
+        {
+            "id": 211,
+            "contenido": "活动",
+            "significado": "Activity",
+            "dia": "2026-04-30",
+            "tags": [
+                "vocabulary",
+                "social"
+            ],
+            "pinyin": "huó dong"
+        },
+        {
+            "id": 212,
+            "contenido": "兰苏园",
+            "significado": "Lan Su Chinese Garden",
+            "dia": "2026-04-30",
+            "tags": [
+                "vocabulary",
+                "places"
+            ],
+            "pinyin": "lán sū yuán"
+        },
+        {
+            "id": 213,
+            "contenido": "动物园",
+            "significado": "Zoo",
+            "dia": "2026-04-30",
+            "tags": [
+                "vocabulary",
+                "places"
+            ],
+            "pinyin": "dòng wù yuán"
+        },
+        {
+            "id": 214,
+            "contenido": "野餐",
+            "significado": "Picnic",
+            "dia": "2026-04-30",
+            "tags": [
+                "vocabulary",
+                "social"
+            ],
+            "pinyin": "yě cān"
+        },
+        {
+            "id": 215,
+            "contenido": "害怕",
+            "significado": "Scared / afraid",
+            "dia": "2026-05-09",
+            "tags": [
+                "vocabulary",
+                "emotions"
+            ],
+            "pinyin": "hài pà"
+        },
+        {
+            "id": 216,
+            "contenido": "朋克",
+            "significado": "Punk",
+            "dia": "2026-05-09",
+            "tags": [
+                "vocabulary",
+                "music"
+            ],
+            "pinyin": "péng kè"
+        },
+        {
+            "id": 217,
+            "contenido": "蛇",
+            "significado": "Snake",
+            "dia": "2026-05-09",
+            "tags": [
+                "vocabulary",
+                "animals"
+            ],
+            "pinyin": "shé"
+        },
+        {
+            "id": 218,
+            "contenido": "蜘蛛",
+            "significado": "Spider",
+            "dia": "2026-05-09",
+            "tags": [
+                "vocabulary",
+                "animals"
+            ],
+            "pinyin": "zhī zhū"
+        },
+        {
+            "id": 219,
+            "contenido": "美国的未来",
+            "significado": "America's future",
+            "dia": "2026-05-09",
+            "tags": [
+                "vocabulary",
+                "phrases"
+            ],
+            "pinyin": "měi guó de wèi lái"
+        },
+        {
+            "id": 220,
+            "contenido": "这个多少钱",
+            "significado": "How much does this cost?",
+            "dia": "2026-05-14",
+            "tags": [
+                "phrases",
+                "survival"
+            ],
+            "pinyin": "zhè ge duō shao qián"
+        },
+        {
+            "id": 221,
+            "contenido": "这个值多少钱",
+            "significado": "How much is this worth?",
+            "dia": "2026-05-14",
+            "tags": [
+                "phrases",
+                "survival"
+            ],
+            "pinyin": "zhè ge zhí duō shao qián"
+        },
+        {
+            "id": 222,
+            "contenido": "请问",
+            "significado": "Excuse me / May I ask?",
+            "dia": "2026-05-14",
+            "tags": [
+                "phrases",
+                "survival"
+            ],
+            "pinyin": "qǐng wèn"
+        },
+        {
+            "id": 223,
+            "contenido": "在哪里",
+            "significado": "Where is [place]?",
+            "dia": "2026-05-14",
+            "tags": [
+                "phrases",
+                "survival"
+            ],
+            "pinyin": "zài nǎ li"
+        },
+        {
+            "id": 224,
+            "contenido": "你可以帮我吗",
+            "significado": "Can you help me?",
+            "dia": "2026-05-14",
+            "tags": [
+                "phrases",
+                "survival"
+            ],
+            "pinyin": "nǐ kě yǐ bāng wǒ ma"
+        },
+        {
+            "id": 225,
+            "contenido": "不好意思",
+            "significado": "My bad / pardon / excuse me",
+            "dia": "2026-05-14",
+            "tags": [
+                "phrases",
+                "survival"
+            ],
+            "pinyin": "bù hǎo yì si"
+        },
+        {
+            "id": 226,
+            "contenido": "我吃饱了",
+            "significado": "I'm full",
+            "dia": "2026-05-14",
+            "tags": [
+                "phrases",
+                "survival"
+            ],
+            "pinyin": "wǒ chī bǎo le"
+        },
+        {
+            "id": 227,
+            "contenido": "请再说一遍",
+            "significado": "Please say it again",
+            "dia": "2026-05-14",
+            "tags": [
+                "phrases",
+                "survival"
+            ],
+            "pinyin": "qǐng zài shuō yī biàn"
+        },
+        {
+            "id": 228,
+            "contenido": "我不懂",
+            "significado": "I don't understand",
+            "dia": "2026-05-14",
+            "tags": [
+                "phrases",
+                "survival"
+            ],
+            "pinyin": "wǒ bù dǒng"
+        },
+        {
+            "id": 229,
+            "contenido": "这个是什么意思",
+            "significado": "What does this mean?",
+            "dia": "2026-05-14",
+            "tags": [
+                "phrases",
+                "survival"
+            ],
+            "pinyin": "zhè ge shì shén me yì si"
+        },
+        {
+            "id": 230,
+            "contenido": "用中文怎么说",
+            "significado": "How do you say [word] in Chinese?",
+            "dia": "2026-05-14",
+            "tags": [
+                "phrases",
+                "survival"
+            ],
+            "pinyin": "yòng zhōng wén zěn me shuō"
+        },
+        {
+            "id": 231,
+            "contenido": "你叫什么名字",
+            "significado": "What's your name?",
+            "dia": "2026-05-14",
+            "tags": [
+                "phrases",
+                "survival"
+            ],
+            "pinyin": "nǐ jiào shén me míng zi"
+        },
+        {
+            "id": 232,
+            "contenido": "谢谢你的分享",
+            "significado": "Thanks for sharing",
+            "dia": "2026-05-14",
+            "tags": [
+                "phrases",
+                "survival"
+            ],
+            "pinyin": "xiè xie nǐ de fēn xiǎng"
         }
     ]
 }
