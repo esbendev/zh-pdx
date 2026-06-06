@@ -2416,6 +2416,226 @@
                 "survival"
             ],
             "pinyin": "xiè xie nǐ de fēn xiǎng"
+        },
+        {
+            "id": 233,
+            "contenido": "藝術",
+            "significado": "Art",
+            "dia": "2026-05-23",
+            "tags": [
+                "school_classes",
+                "vocabulary"
+            ],
+            "pinyin": "yì shù"
+        },
+        {
+            "id": 234,
+            "contenido": "體育",
+            "significado": "PE",
+            "dia": "2026-05-23",
+            "tags": [
+                "school_classes",
+                "vocabulary"
+            ],
+            "pinyin": "tǐ yù"
+        },
+        {
+            "id": 235,
+            "contenido": "英語",
+            "significado": "English",
+            "dia": "2026-05-23",
+            "tags": [
+                "school_classes",
+                "vocabulary"
+            ],
+            "pinyin": "yīng yǔ"
+        },
+        {
+            "id": 236,
+            "contenido": "中文",
+            "significado": "Chinese",
+            "dia": "2026-05-23",
+            "tags": [
+                "school_classes",
+                "vocabulary"
+            ],
+            "pinyin": "zhōng wén"
+        },
+        {
+            "id": 237,
+            "contenido": "數學",
+            "significado": "Math",
+            "dia": "2026-05-23",
+            "tags": [
+                "school_classes",
+                "vocabulary"
+            ],
+            "pinyin": "shù xué"
+        },
+        {
+            "id": 238,
+            "contenido": "科學",
+            "significado": "Science",
+            "dia": "2026-05-23",
+            "tags": [
+                "school_classes",
+                "vocabulary"
+            ],
+            "pinyin": "kē xué"
+        },
+        {
+            "id": 239,
+            "contenido": "德語",
+            "significado": "German",
+            "dia": "2026-05-23",
+            "tags": [
+                "school_classes",
+                "vocabulary"
+            ],
+            "pinyin": "dé yǔ"
+        },
+        {
+            "id": 240,
+            "contenido": "西班牙語",
+            "significado": "Spanish",
+            "dia": "2026-05-23",
+            "tags": [
+                "school_classes",
+                "vocabulary"
+            ],
+            "pinyin": "xī bān yá yǔ"
+        },
+        {
+            "id": 241,
+            "contenido": "法語",
+            "significado": "French",
+            "dia": "2026-05-23",
+            "tags": [
+                "school_classes",
+                "vocabulary"
+            ],
+            "pinyin": "fǎ yǔ"
+        },
+        {
+            "id": 242,
+            "contenido": "跟朋友聊天",
+            "significado": "Chatting with friends",
+            "dia": "2026-05-23",
+            "tags": [
+                "activities",
+                "vocabulary"
+            ],
+            "pinyin": "gēn péng you liáotiān"
+        },
+        {
+            "id": 243,
+            "contenido": "跑步",
+            "significado": "Running",
+            "dia": "2026-05-23",
+            "tags": [
+                "activities",
+                "vocabulary"
+            ],
+            "pinyin": "pǎo bù"
+        },
+        {
+            "id": 244,
+            "contenido": "打棒球",
+            "significado": "Playing baseball",
+            "dia": "2026-05-23",
+            "tags": [
+                "activities",
+                "vocabulary"
+            ],
+            "pinyin": "dǎ bàng qiú"
+        },
+        {
+            "id": 245,
+            "contenido": "踢足球",
+            "significado": "Playing soccer",
+            "dia": "2026-05-23",
+            "tags": [
+                "activities",
+                "vocabulary"
+            ],
+            "pinyin": "tī zú qiú"
+        },
+        {
+            "id": 246,
+            "contenido": "游泳",
+            "significado": "Swimming",
+            "dia": "2026-05-23",
+            "tags": [
+                "activities",
+                "vocabulary"
+            ],
+            "pinyin": "yóu yǒng"
+        },
+        {
+            "id": 247,
+            "contenido": "習慣",
+            "significado": "Habits",
+            "dia": "2026-05-28",
+            "tags": [
+                "habits",
+                "vocabulary"
+            ],
+            "pinyin": "xí guàn"
+        },
+        {
+            "id": 248,
+            "contenido": "刷牙",
+            "significado": "Brushing teeth",
+            "dia": "2026-05-28",
+            "tags": [
+                "habits",
+                "vocabulary"
+            ],
+            "pinyin": "shuā yá"
+        },
+        {
+            "id": 249,
+            "contenido": "睡覺",
+            "significado": "Sleeping",
+            "dia": "2026-05-28",
+            "tags": [
+                "habits",
+                "vocabulary"
+            ],
+            "pinyin": "shuì jiào"
+        },
+        {
+            "id": 250,
+            "contenido": "做早餐",
+            "significado": "Making breakfast",
+            "dia": "2026-05-28",
+            "tags": [
+                "habits",
+                "vocabulary"
+            ],
+            "pinyin": "zuò zǎo cān"
+        },
+        {
+            "id": 251,
+            "contenido": "開玩笑",
+            "significado": "Joking around",
+            "dia": "2026-05-28",
+            "tags": [
+                "habits",
+                "vocabulary"
+            ],
+            "pinyin": "kāi wán xiào"
+        },
+        {
+            "id": 252,
+            "contenido": "看電視劇",
+            "significado": "Watching Chinese dramas",
+            "dia": "2026-05-28",
+            "tags": [
+                "habits",
+                "vocabulary"
+            ],
+            "pinyin": "kàn diàn shì jù"
         }
     ]
 }
