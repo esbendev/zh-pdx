@@ -2636,6 +2636,277 @@
                 "vocabulary"
             ],
             "pinyin": "kàn diàn shì jù"
+        },
+        {
+            "id": 253,
+            "contenido": "生肖",
+            "significado": "Chinese zodiac signs",
+            "dia": "2026-06-06",
+            "tags": [
+                "zodiac",
+                "vocabulary"
+            ],
+            "pinyin": "shēng xiào"
+        },
+        {
+            "id": 254,
+            "contenido": "適合 / 适合",
+            "significado": "suit / to fit",
+            "dia": "2026-06-06",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "shì hé"
+        },
+        {
+            "id": 255,
+            "contenido": "豬 / 猪",
+            "significado": "pig",
+            "dia": "2026-06-06",
+            "tags": [
+                "animals",
+                "zodiac",
+                "vocabulary"
+            ],
+            "pinyin": "zhū"
+        },
+        {
+            "id": 256,
+            "contenido": "狗",
+            "significado": "dog",
+            "dia": "2026-06-06",
+            "tags": [
+                "animals",
+                "zodiac",
+                "vocabulary"
+            ],
+            "pinyin": "gǒu"
+        },
+        {
+            "id": 257,
+            "contenido": "龍 / 龙",
+            "significado": "dragon",
+            "dia": "2026-06-06",
+            "tags": [
+                "animals",
+                "zodiac",
+                "vocabulary"
+            ],
+            "pinyin": "lóng"
+        },
+        {
+            "id": 258,
+            "contenido": "馬 / 马",
+            "significado": "horse",
+            "dia": "2026-06-06",
+            "tags": [
+                "animals",
+                "zodiac",
+                "vocabulary"
+            ],
+            "pinyin": "mǎ"
+        },
+        {
+            "id": 259,
+            "contenido": "把",
+            "significado": "Grammatical particle used to shift an object ahead of the verb",
+            "dia": "2026-06-06",
+            "tags": [
+                "grammar",
+                "vocabulary"
+            ],
+            "pinyin": "bǎ"
+        },
+        {
+            "id": 260,
+            "contenido": "被",
+            "significado": "Grammatical particle used to indicate passive voice",
+            "dia": "2026-06-06",
+            "tags": [
+                "grammar",
+                "vocabulary"
+            ],
+            "pinyin": "bèi"
+        },
+        {
+            "id": 261,
+            "contenido": "礼貌",
+            "significado": "manners; to be polite",
+            "dia": "2026-06-06",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "lǐ mào"
+        },
+        {
+            "id": 262,
+            "contenido": "不太礼貌",
+            "significado": "not very polite",
+            "dia": "2026-06-06",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "bú tài lǐ mào"
+        },
+        {
+            "id": 263,
+            "contenido": "热情",
+            "significado": "warmhearted",
+            "dia": "2026-06-06",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "rè qíng"
+        },
+        {
+            "id": 264,
+            "contenido": "有暖心",
+            "significado": "to have a warm heart",
+            "dia": "2026-06-06",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "yǒu nuǎn xīn"
+        },
+        {
+            "id": 265,
+            "contenido": "没错",
+            "significado": "not wrong; that's right",
+            "dia": "2026-06-06",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "méi cuò"
+        },
+        {
+            "id": 266,
+            "contenido": "说实话",
+            "significado": "to tell the truth; TBH",
+            "dia": "2026-06-06",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "shuō shí huà"
+        },
+        {
+            "id": 267,
+            "contenido": "相反",
+            "significado": "to be the opposite",
+            "dia": "2026-06-06",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "xiāng fǎn"
+        },
+        {
+            "id": 268,
+            "contenido": "羊",
+            "significado": "goat / sheep",
+            "dia": "2026-06-06",
+            "tags": [
+                "animals",
+                "zodiac",
+                "vocabulary"
+            ],
+            "pinyin": "yáng"
+        },
+        {
+            "id": 269,
+            "contenido": "蛇",
+            "significado": "snake",
+            "dia": "2026-06-06",
+            "tags": [
+                "animals",
+                "zodiac",
+                "vocabulary"
+            ],
+            "pinyin": "shé"
+        },
+        {
+            "id": 270,
+            "contenido": "鼠",
+            "significado": "mouse / rat",
+            "dia": "2026-06-06",
+            "tags": [
+                "animals",
+                "zodiac",
+                "vocabulary"
+            ],
+            "pinyin": "shǔ"
+        },
+        {
+            "id": 271,
+            "contenido": "明星",
+            "significado": "celebrity",
+            "dia": "2026-06-06",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "míng xīng"
+        },
+        {
+            "id": 272,
+            "contenido": "有名人",
+            "significado": "famous person",
+            "dia": "2026-06-06",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "yǒu míng rén"
+        },
+        {
+            "id": 273,
+            "contenido": "火馬 / 火马",
+            "significado": "fire horse",
+            "dia": "2026-06-06",
+            "tags": [
+                "zodiac",
+                "vocabulary"
+            ],
+            "pinyin": "huǒ mǎ"
+        },
+        {
+            "id": 274,
+            "contenido": "煎蛋",
+            "significado": "fried egg",
+            "dia": "2026-06-06",
+            "tags": [
+                "food",
+                "vocabulary"
+            ],
+            "pinyin": "jiān dàn"
+        },
+        {
+            "id": 275,
+            "contenido": "簡單 / 简单",
+            "significado": "easy; simple",
+            "dia": "2026-06-06",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "jiǎn dān"
+        },
+        {
+            "id": 276,
+            "contenido": "過 / 过",
+            "significado": "grammatical particle indicating past experience",
+            "dia": "2026-06-06",
+            "tags": [
+                "grammar",
+                "vocabulary"
+            ],
+            "pinyin": "guò"
+        },
+        {
+            "id": 277,
+            "contenido": "吧",
+            "significado": "modal particle indicating suggestion or assumption",
+            "dia": "2026-06-06",
+            "tags": [
+                "grammar",
+                "vocabulary"
+            ],
+            "pinyin": "ba"
         }
     ]
 }
