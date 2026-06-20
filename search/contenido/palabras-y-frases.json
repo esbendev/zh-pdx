@@ -2907,6 +2907,111 @@
                 "vocabulary"
             ],
             "pinyin": "ba"
+        },
+        {
+            "id": 278,
+            "contenido": "中文名字",
+            "significado": "Chinese name",
+            "dia": "2026-06-11",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "zhōngwén míngzi"
+        },
+        {
+            "id": 279,
+            "contenido": "分钟",
+            "significado": "minute",
+            "dia": "2026-06-11",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "fēnzhōng"
+        },
+        {
+            "id": 280,
+            "contenido": "蜻蜓",
+            "significado": "dragonfly",
+            "dia": "2026-06-11",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "qīngtíng"
+        },
+        {
+            "id": 281,
+            "contenido": "虫子",
+            "significado": "insect",
+            "dia": "2026-06-11",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "chóngzi"
+        },
+        {
+            "id": 282,
+            "contenido": "鸡仔饼",
+            "significado": "chicken cracker (traditional snack)",
+            "dia": "2026-06-11",
+            "tags": [
+                "vocabulary",
+                "food"
+            ],
+            "pinyin": "jīzǎibǐng"
+        },
+        {
+            "id": 283,
+            "contenido": "礼饼",
+            "significado": "wedding pastry given out by the groom's family",
+            "dia": "2026-06-11",
+            "tags": [
+                "vocabulary",
+                "culture",
+                "food"
+            ],
+            "pinyin": "lǐbǐng"
+        },
+        {
+            "id": 284,
+            "contenido": "老婆饼",
+            "significado": "sweetheart cake / wife cake",
+            "dia": "2026-06-11",
+            "tags": [
+                "vocabulary",
+                "food"
+            ],
+            "pinyin": "lǎopobǐng"
+        },
+        {
+            "id": 285,
+            "contenido": "菠萝包",
+            "significado": "pineapple bun",
+            "dia": "2026-06-11",
+            "tags": [
+                "vocabulary",
+                "food"
+            ],
+            "pinyin": "bōluóbāo"
+        },
+        {
+            "id": 286,
+            "contenido": "菠萝",
+            "significado": "pineapple (commonly used in Mainland China)",
+            "dia": "2026-06-11",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "bōluó"
+        },
+        {
+            "id": 287,
+            "contenido": "凤梨",
+            "significado": "pineapple (commonly used in Taiwan)",
+            "dia": "2026-06-11",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "fènglí"
         }
     ]
 }
