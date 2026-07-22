@@ -3322,6 +3322,86 @@
                 "vocabulary"
             ],
             "pinyin": "diànyǐngwénhuà"
+        },
+        {
+            "id": 319,
+            "contenido": "奇怪",
+            "significado": "weird",
+            "dia": "2026-07-09",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "qíguài"
+        },
+        {
+            "id": 320,
+            "contenido": "有趣",
+            "significado": "interesting",
+            "dia": "2026-07-09",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "yǒuqù"
+        },
+        {
+            "id": 321,
+            "contenido": "臭豆腐",
+            "significado": "stinky tofu",
+            "dia": "2026-07-09",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "chòudòufu"
+        },
+        {
+            "id": 322,
+            "contenido": "城市生活",
+            "significado": "city life",
+            "dia": "2026-07-18",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "chéngshì shēnghuó"
+        },
+        {
+            "id": 323,
+            "contenido": "乡村生活",
+            "significado": "country life",
+            "dia": "2026-07-18",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "xiāngcūn shēnghuó"
+        },
+        {
+            "id": 324,
+            "contenido": "方便",
+            "significado": "convenient",
+            "dia": "2026-07-18",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "fāngbiàn"
+        },
+        {
+            "id": 325,
+            "contenido": "书店",
+            "significado": "bookstore",
+            "dia": "2026-07-18",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "shūdiàn"
+        },
+        {
+            "id": 326,
+            "contenido": "公共交通",
+            "significado": "public transit",
+            "dia": "2026-07-18",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "gōnggòng jiāotōng"
         }
     ]
 }
