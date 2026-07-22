@@ -3012,6 +3012,136 @@
                 "vocabulary"
             ],
             "pinyin": "fènglí"
+        },
+        {
+            "id": 288,
+            "contenido": "足球",
+            "significado": "soccer",
+            "dia": "2026-06-20",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "zúqiú"
+        },
+        {
+            "id": 289,
+            "contenido": "谁",
+            "significado": "who",
+            "dia": "2026-06-20",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "shéi"
+        },
+        {
+            "id": 290,
+            "contenido": "哪个",
+            "significado": "which",
+            "dia": "2026-06-20",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "nǎge"
+        },
+        {
+            "id": 291,
+            "contenido": "右边",
+            "significado": "right side",
+            "dia": "2026-06-20",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "yòubian"
+        },
+        {
+            "id": 292,
+            "contenido": "他們在我的右邊",
+            "significado": "They are to my right",
+            "dia": "2026-06-20",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "tāmen zài wǒ de yòubiān"
+        },
+        {
+            "id": 293,
+            "contenido": "护照",
+            "significado": "passport",
+            "dia": "2026-06-20",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "hùzhào"
+        },
+        {
+            "id": 294,
+            "contenido": "美国华人",
+            "significado": "Chinese American",
+            "dia": "2026-06-20",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "měiguó huárén"
+        },
+        {
+            "id": 295,
+            "contenido": "州",
+            "significado": "state",
+            "dia": "2026-06-20",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "zhōu"
+        },
+        {
+            "id": 296,
+            "contenido": "加州",
+            "significado": "California",
+            "dia": "2026-06-20",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "jiāzhōu"
+        },
+        {
+            "id": 297,
+            "contenido": "滴滴",
+            "significado": "DiDi - transportation app like Uber in China",
+            "dia": "2026-06-20",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "dīdī"
+        },
+        {
+            "id": 298,
+            "contenido": "支付宝",
+            "significado": "Alipay",
+            "dia": "2026-06-20",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "zhīfùbǎo"
+        },
+        {
+            "id": 299,
+            "contenido": "参加",
+            "significado": "to participate / to take part in",
+            "dia": "2026-06-20",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "cānjiā"
+        },
+        {
+            "id": 300,
+            "contenido": "介绍",
+            "significado": "to introduce / introduction",
+            "dia": "2026-06-20",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "jièshào"
         }
     ]
 }
