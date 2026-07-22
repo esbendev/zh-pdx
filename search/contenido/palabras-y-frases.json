@@ -3142,6 +3142,186 @@
                 "vocabulary"
             ],
             "pinyin": "jièshào"
+        },
+        {
+            "id": 301,
+            "contenido": "白头鹰",
+            "significado": "bald eagle",
+            "dia": "2026-06-25",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "báitóuyīng"
+        },
+        {
+            "id": 302,
+            "contenido": "族群",
+            "significado": "ethnic group / community",
+            "dia": "2026-06-25",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "zúqún"
+        },
+        {
+            "id": 303,
+            "contenido": "组",
+            "significado": "group / organization",
+            "dia": "2026-06-25",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "zǔ"
+        },
+        {
+            "id": 304,
+            "contenido": "团体",
+            "significado": "group (ex: our Chinese group)",
+            "dia": "2026-06-25",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "tuántǐ"
+        },
+        {
+            "id": 305,
+            "contenido": "队",
+            "significado": "group / team",
+            "dia": "2026-06-25",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "duì"
+        },
+        {
+            "id": 306,
+            "contenido": "圈",
+            "significado": "circle (ex: circle of friends)",
+            "dia": "2026-06-25",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "quān"
+        },
+        {
+            "id": 307,
+            "contenido": "中文对话团",
+            "significado": "Chinese Conversation Group",
+            "dia": "2026-06-25",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "zhōngwénduìhuàtuán"
+        },
+        {
+            "id": 308,
+            "contenido": "中文普通话交流班",
+            "significado": "Mandarin exchange class",
+            "dia": "2026-06-25",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "zhōngwénpǔtōnghuàjiāoliúbān"
+        },
+        {
+            "id": 309,
+            "contenido": "别",
+            "significado": "don't",
+            "dia": "2026-06-25",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "bié"
+        },
+        {
+            "id": 310,
+            "contenido": "骂",
+            "significado": "scold",
+            "dia": "2026-06-25",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "mà"
+        },
+        {
+            "id": 311,
+            "contenido": "当然",
+            "significado": "of course",
+            "dia": "2026-06-25",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "dāngrán"
+        },
+        {
+            "id": 312,
+            "contenido": "别骂我",
+            "significado": "don't scold me",
+            "dia": "2026-06-25",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "biémàwǒ"
+        },
+        {
+            "id": 313,
+            "contenido": "八个人",
+            "significado": "8 people",
+            "dia": "2026-06-25",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "bāgèrén"
+        },
+        {
+            "id": 314,
+            "contenido": "风景",
+            "significado": "scenery",
+            "dia": "2026-06-25",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "fēngjǐng"
+        },
+        {
+            "id": 315,
+            "contenido": "野生动物",
+            "significado": "wildlife",
+            "dia": "2026-06-25",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "yěshēngdòngwù"
+        },
+        {
+            "id": 316,
+            "contenido": "天气",
+            "significado": "weather",
+            "dia": "2026-06-25",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "tiānqì"
+        },
+        {
+            "id": 317,
+            "contenido": "玫瑰",
+            "significado": "roses",
+            "dia": "2026-06-25",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "méigui"
+        },
+        {
+            "id": 318,
+            "contenido": "电影文化",
+            "significado": "film culture",
+            "dia": "2026-06-25",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "diànyǐngwénhuà"
         }
     ]
 }
