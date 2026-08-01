@@ -3402,6 +3402,116 @@
                 "vocabulary"
             ],
             "pinyin": "gōnggòng jiāotōng"
+        },
+        {
+            "id": 327,
+            "contenido": "华人文化节",
+            "significado": "Chinese Festival",
+            "dia": "2026-07-23",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "huá rén wén huà jié"
+        },
+        {
+            "id": 328,
+            "contenido": "水墨画",
+            "significado": "ink painting",
+            "dia": "2026-07-23",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "shuǐ mò huà"
+        },
+        {
+            "id": 329,
+            "contenido": "汉服试穿",
+            "significado": "Hanfu try-on",
+            "dia": "2026-07-23",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "hàn fú shì chuān"
+        },
+        {
+            "id": 330,
+            "contenido": "版画",
+            "significado": "woodblock prints",
+            "dia": "2026-07-23",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "bǎn huà"
+        },
+        {
+            "id": 331,
+            "contenido": "书法",
+            "significado": "calligraphy",
+            "dia": "2026-07-23",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "shū fǎ"
+        },
+        {
+            "id": 332,
+            "contenido": "吃美食",
+            "significado": "eat good food",
+            "dia": "2026-07-23",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "chī měi shí"
+        },
+        {
+            "id": 333,
+            "contenido": "看武术",
+            "significado": "see martial arts",
+            "dia": "2026-07-23",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "kàn wǔ shù"
+        },
+        {
+            "id": 334,
+            "contenido": "看舞蹈表演",
+            "significado": "see dance performances",
+            "dia": "2026-07-23",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "kàn wǔ dǎo biǎo yǎn"
+        },
+        {
+            "id": 335,
+            "contenido": "丑人",
+            "significado": "ugly person",
+            "dia": "2026-07-23",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "chǒu rén"
+        },
+        {
+            "id": 336,
+            "contenido": "臭人",
+            "significado": "smelly person",
+            "dia": "2026-07-23",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "chòu rén"
+        },
+        {
+            "id": 337,
+            "contenido": "犹豫吃鱿鱼",
+            "significado": "hesitant to eat squid",
+            "dia": "2026-07-23",
+            "tags": [
+                "vocabulary"
+            ],
+            "pinyin": "yóu yù chī yóu yú"
         }
     ]
 }
