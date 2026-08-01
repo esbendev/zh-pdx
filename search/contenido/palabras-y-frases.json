@@ -83,8 +83,8 @@
             "significado": "Sketchy",
             "dia": "2026-01-03",
             "tags": [
-                "vocabulary",
-                "adjectives"
+                "adjectives",
+                "descriptive"
             ],
             "pinyin": "xiāo tiáo"
         },
@@ -94,8 +94,8 @@
             "significado": "To buy something but not use it",
             "dia": "2026-01-03",
             "tags": [
-                "vocabulary",
-                "verbs"
+                "verbs",
+                "shopping"
             ],
             "pinyin": "tún"
         },
@@ -1409,7 +1409,8 @@
             "significado": "protest",
             "dia": "2026-03-28",
             "tags": [
-                "vocabulary"
+                "protest",
+                "politics"
             ],
             "pinyin": "kàng yì"
         },
@@ -1564,7 +1565,8 @@
             "significado": "listen to music",
             "dia": "2026-04-02",
             "tags": [
-                "vocabulary"
+                "verbs",
+                "activities"
             ],
             "pinyin": "tīng yīn yuè"
         },
@@ -1574,7 +1576,7 @@
             "significado": "squirrel",
             "dia": "2026-04-02",
             "tags": [
-                "vocabulary"
+                "animals"
             ],
             "pinyin": "sōng shǔ"
         },
@@ -1584,7 +1586,7 @@
             "significado": "rat",
             "dia": "2026-04-02",
             "tags": [
-                "vocabulary"
+                "animals"
             ],
             "pinyin": "dà lǎo shǔ"
         },
@@ -1594,7 +1596,7 @@
             "significado": "mouse",
             "dia": "2026-04-02",
             "tags": [
-                "vocabulary"
+                "animals"
             ],
             "pinyin": "xiǎo lǎo shǔ"
         },
@@ -1604,7 +1606,7 @@
             "significado": "raccoon",
             "dia": "2026-04-02",
             "tags": [
-                "vocabulary"
+                "animals"
             ],
             "pinyin": "huàn xióng"
         },
@@ -1614,7 +1616,7 @@
             "significado": "panda",
             "dia": "2026-04-02",
             "tags": [
-                "vocabulary"
+                "animals"
             ],
             "pinyin": "xióng māo"
         },
@@ -1624,7 +1626,8 @@
             "significado": "marry",
             "dia": "2026-04-02",
             "tags": [
-                "vocabulary"
+                "verbs",
+                "activities"
             ],
             "pinyin": "jié hūn"
         },
@@ -1634,7 +1637,7 @@
             "significado": "sibling's son",
             "dia": "2026-04-02",
             "tags": [
-                "vocabulary"
+                "family"
             ],
             "pinyin": "zhí zi"
         },
@@ -1644,7 +1647,7 @@
             "significado": "paternal younger brother",
             "dia": "2026-04-02",
             "tags": [
-                "vocabulary"
+                "family"
             ],
             "pinyin": "shū shu"
         },
@@ -1654,7 +1657,8 @@
             "significado": "area code",
             "dia": "2026-04-02",
             "tags": [
-                "vocabulary"
+                "characters",
+                "language"
             ],
             "pinyin": "qū mǎ"
         },
@@ -1664,7 +1668,8 @@
             "significado": "program (computer)",
             "dia": "2026-04-02",
             "tags": [
-                "vocabulary"
+                "characters",
+                "language"
             ],
             "pinyin": "chéng xù"
         },
@@ -1674,7 +1679,8 @@
             "significado": "general / vast",
             "dia": "2026-04-02",
             "tags": [
-                "vocabulary"
+                "characters",
+                "language"
             ],
             "pinyin": "guǎng kuò"
         },
@@ -1684,7 +1690,7 @@
             "significado": "software programmer",
             "dia": "2026-04-02",
             "tags": [
-                "vocabulary"
+                "misc"
             ],
             "pinyin": "ruǎn jiàn gōng chéng shī"
         },
@@ -1694,7 +1700,7 @@
             "significado": "hard / difficult",
             "dia": "2026-04-02",
             "tags": [
-                "vocabulary"
+                "adjectives"
             ],
             "pinyin": "nán"
         },
@@ -1704,7 +1710,8 @@
             "significado": "relationship / relation",
             "dia": "2026-04-02",
             "tags": [
-                "vocabulary"
+                "characters",
+                "language"
             ],
             "pinyin": "guān xi"
         },
@@ -1714,7 +1721,8 @@
             "significado": "scroll through your phone",
             "dia": "2026-04-02",
             "tags": [
-                "vocabulary"
+                "characters",
+                "language"
             ],
             "pinyin": "shuā shǒu jī"
         },
@@ -1724,7 +1732,8 @@
             "significado": "window shopping",
             "dia": "2026-04-02",
             "tags": [
-                "vocabulary"
+                "characters",
+                "language"
             ],
             "pinyin": "guàng jiē"
         },
@@ -1734,7 +1743,8 @@
             "significado": "running",
             "dia": "2026-04-02",
             "tags": [
-                "vocabulary"
+                "verbs",
+                "activities"
             ],
             "pinyin": "pǎo bù"
         },
@@ -1744,7 +1754,8 @@
             "significado": "watch TV",
             "dia": "2026-04-02",
             "tags": [
-                "vocabulary"
+                "verbs",
+                "activities"
             ],
             "pinyin": "kàn diàn shì"
         },
@@ -1754,7 +1765,8 @@
             "significado": "do laundry",
             "dia": "2026-04-02",
             "tags": [
-                "vocabulary"
+                "characters",
+                "language"
             ],
             "pinyin": "xǐ yī fú"
         },
@@ -1764,7 +1776,7 @@
             "significado": "make food",
             "dia": "2026-04-02",
             "tags": [
-                "vocabulary"
+                "food"
             ],
             "pinyin": "zuò fàn"
         },
@@ -1774,7 +1786,7 @@
             "significado": "crochet",
             "dia": "2026-04-02",
             "tags": [
-                "vocabulary"
+                "misc"
             ],
             "pinyin": "gōu zhēn biān zhī"
         },
@@ -1784,7 +1796,7 @@
             "significado": "bitter melon",
             "dia": "2026-04-11",
             "tags": [
-                "vocabulary"
+                "food"
             ],
             "pinyin": "kǔ guā"
         },
@@ -1794,7 +1806,7 @@
             "significado": "fatty meat",
             "dia": "2026-04-11",
             "tags": [
-                "vocabulary"
+                "food"
             ],
             "pinyin": "féi ròu"
         },
@@ -1804,7 +1816,7 @@
             "significado": "cow stomach; tripe",
             "dia": "2026-04-11",
             "tags": [
-                "vocabulary"
+                "food"
             ],
             "pinyin": "niú dù zi"
         },
@@ -1814,7 +1826,7 @@
             "significado": "chicken feet",
             "dia": "2026-04-11",
             "tags": [
-                "vocabulary"
+                "food"
             ],
             "pinyin": "jī zhuǎ zi"
         },
@@ -1824,7 +1836,7 @@
             "significado": "chicken feet (dim sum style)",
             "dia": "2026-04-11",
             "tags": [
-                "vocabulary"
+                "food"
             ],
             "pinyin": "fèng zhuǎ"
         },
@@ -1834,7 +1846,7 @@
             "significado": "stuffed eggplant",
             "dia": "2026-04-11",
             "tags": [
-                "vocabulary"
+                "food"
             ],
             "pinyin": "niàng qié zi"
         },
@@ -1844,7 +1856,7 @@
             "significado": "immigrant; to immigrate",
             "dia": "2026-04-11",
             "tags": [
-                "vocabulary"
+                "animals"
             ],
             "pinyin": "yí mín"
         },
@@ -1854,7 +1866,8 @@
             "significado": "local people",
             "dia": "2026-04-11",
             "tags": [
-                "vocabulary"
+                "education",
+                "school_classes"
             ],
             "pinyin": "běn dì rén"
         },
@@ -1864,7 +1877,7 @@
             "significado": "fluent; fluid",
             "dia": "2026-04-11",
             "tags": [
-                "vocabulary"
+                "adjectives"
             ],
             "pinyin": "liú lì"
         },
@@ -1874,7 +1887,8 @@
             "significado": "dialect",
             "dia": "2026-04-11",
             "tags": [
-                "vocabulary"
+                "characters",
+                "language"
             ],
             "pinyin": "fāng yán"
         },
@@ -1884,7 +1898,8 @@
             "significado": "script; writing",
             "dia": "2026-04-11",
             "tags": [
-                "vocabulary"
+                "characters",
+                "language"
             ],
             "pinyin": "wén zì"
         },
@@ -1894,7 +1909,8 @@
             "significado": "Greece",
             "dia": "2026-04-11",
             "tags": [
-                "vocabulary"
+                "characters",
+                "language"
             ],
             "pinyin": "xī là"
         },
@@ -1904,7 +1920,8 @@
             "significado": "ginseng",
             "dia": "2026-04-11",
             "tags": [
-                "vocabulary"
+                "characters",
+                "language"
             ],
             "pinyin": "rén shēn"
         },
@@ -1914,7 +1931,8 @@
             "significado": "flavor",
             "dia": "2026-04-11",
             "tags": [
-                "vocabulary"
+                "characters",
+                "language"
             ],
             "pinyin": "wèi dào"
         },
@@ -1924,7 +1942,7 @@
             "significado": "chocolate",
             "dia": "2026-04-11",
             "tags": [
-                "vocabulary"
+                "food"
             ],
             "pinyin": "qiǎo kè lì"
         },
@@ -1934,7 +1952,7 @@
             "significado": "USD",
             "dia": "2026-04-16",
             "tags": [
-                "vocabulary"
+                "currency"
             ],
             "pinyin": "měi jīn"
         },
@@ -1944,7 +1962,7 @@
             "significado": "USD",
             "dia": "2026-04-16",
             "tags": [
-                "vocabulary"
+                "currency"
             ],
             "pinyin": "měi yuán"
         },
@@ -1954,7 +1972,7 @@
             "significado": "RMB; Chinese currency",
             "dia": "2026-04-16",
             "tags": [
-                "vocabulary"
+                "currency"
             ],
             "pinyin": "rén mín bì"
         },
@@ -1964,7 +1982,7 @@
             "significado": "HKD",
             "dia": "2026-04-16",
             "tags": [
-                "vocabulary"
+                "currency"
             ],
             "pinyin": "gǎng bì"
         },
@@ -1974,7 +1992,7 @@
             "significado": "NTD; Taiwanese dollar",
             "dia": "2026-04-16",
             "tags": [
-                "vocabulary"
+                "currency"
             ],
             "pinyin": "tái bì"
         },
@@ -1984,7 +2002,7 @@
             "significado": "Euro",
             "dia": "2026-04-16",
             "tags": [
-                "vocabulary"
+                "currency"
             ],
             "pinyin": "ōu yuán"
         },
@@ -1994,7 +2012,6 @@
             "significado": "Male cousin (older, from female side)",
             "dia": "2026-04-25",
             "tags": [
-                "vocabulary",
                 "family"
             ],
             "pinyin": "biǎo gē"
@@ -2005,7 +2022,6 @@
             "significado": "Male cousin (younger, from female side)",
             "dia": "2026-04-25",
             "tags": [
-                "vocabulary",
                 "family"
             ],
             "pinyin": "biǎo dì"
@@ -2016,7 +2032,6 @@
             "significado": "You (casual/tú)",
             "dia": "2026-04-25",
             "tags": [
-                "vocabulary",
                 "pronoun"
             ],
             "pinyin": "nǐ"
@@ -2027,7 +2042,6 @@
             "significado": "You (formal/usted)",
             "dia": "2026-04-25",
             "tags": [
-                "vocabulary",
                 "pronoun"
             ],
             "pinyin": "nín"
@@ -2082,7 +2096,6 @@
             "significado": "Aunt (used for women of parents' generation)",
             "dia": "2026-04-25",
             "tags": [
-                "vocabulary",
                 "addressing"
             ],
             "pinyin": "ā yí"
@@ -2093,7 +2106,6 @@
             "significado": "Uncle (used for men of parents' generation)",
             "dia": "2026-04-25",
             "tags": [
-                "vocabulary",
                 "addressing"
             ],
             "pinyin": "shū shu"
@@ -2104,7 +2116,6 @@
             "significado": "Uncle (father's older brother / respectful address)",
             "dia": "2026-04-25",
             "tags": [
-                "vocabulary",
                 "addressing"
             ],
             "pinyin": "bó bo"
@@ -2115,7 +2126,6 @@
             "significado": "Parents",
             "dia": "2026-04-25",
             "tags": [
-                "vocabulary",
                 "family"
             ],
             "pinyin": "fù mǔ"
@@ -2126,7 +2136,6 @@
             "significado": "Mom / Mommy",
             "dia": "2026-04-25",
             "tags": [
-                "vocabulary",
                 "family"
             ],
             "pinyin": "mā ma"
@@ -2137,7 +2146,6 @@
             "significado": "Dad / Daddy",
             "dia": "2026-04-25",
             "tags": [
-                "vocabulary",
                 "family"
             ],
             "pinyin": "bà ba"
@@ -2159,7 +2167,6 @@
             "significado": "Lily of the valley",
             "dia": "2026-04-30",
             "tags": [
-                "vocabulary",
                 "nature"
             ],
             "pinyin": "líng lán"
@@ -2170,7 +2177,6 @@
             "significado": "Idea",
             "dia": "2026-04-30",
             "tags": [
-                "vocabulary",
                 "conversation"
             ],
             "pinyin": "zhǔ yi"
@@ -2181,7 +2187,6 @@
             "significado": "Activity",
             "dia": "2026-04-30",
             "tags": [
-                "vocabulary",
                 "social"
             ],
             "pinyin": "huó dong"
@@ -2192,7 +2197,6 @@
             "significado": "Lan Su Chinese Garden",
             "dia": "2026-04-30",
             "tags": [
-                "vocabulary",
                 "places"
             ],
             "pinyin": "lán sū yuán"
@@ -2203,7 +2207,6 @@
             "significado": "Zoo",
             "dia": "2026-04-30",
             "tags": [
-                "vocabulary",
                 "places"
             ],
             "pinyin": "dòng wù yuán"
@@ -2214,7 +2217,6 @@
             "significado": "Picnic",
             "dia": "2026-04-30",
             "tags": [
-                "vocabulary",
                 "social"
             ],
             "pinyin": "yě cān"
@@ -2225,7 +2227,6 @@
             "significado": "Scared / afraid",
             "dia": "2026-05-09",
             "tags": [
-                "vocabulary",
                 "emotions"
             ],
             "pinyin": "hài pà"
@@ -2236,7 +2237,6 @@
             "significado": "Punk",
             "dia": "2026-05-09",
             "tags": [
-                "vocabulary",
                 "music"
             ],
             "pinyin": "péng kè"
@@ -2247,7 +2247,6 @@
             "significado": "Snake",
             "dia": "2026-05-09",
             "tags": [
-                "vocabulary",
                 "animals"
             ],
             "pinyin": "shé"
@@ -2258,7 +2257,6 @@
             "significado": "Spider",
             "dia": "2026-05-09",
             "tags": [
-                "vocabulary",
                 "animals"
             ],
             "pinyin": "zhī zhū"
@@ -2269,7 +2267,6 @@
             "significado": "America's future",
             "dia": "2026-05-09",
             "tags": [
-                "vocabulary",
                 "phrases"
             ],
             "pinyin": "měi guó de wèi lái"
@@ -2423,8 +2420,7 @@
             "significado": "Art",
             "dia": "2026-05-23",
             "tags": [
-                "school_classes",
-                "vocabulary"
+                "school_classes"
             ],
             "pinyin": "yì shù"
         },
@@ -2434,8 +2430,7 @@
             "significado": "PE",
             "dia": "2026-05-23",
             "tags": [
-                "school_classes",
-                "vocabulary"
+                "school_classes"
             ],
             "pinyin": "tǐ yù"
         },
@@ -2445,8 +2440,7 @@
             "significado": "English",
             "dia": "2026-05-23",
             "tags": [
-                "school_classes",
-                "vocabulary"
+                "school_classes"
             ],
             "pinyin": "yīng yǔ"
         },
@@ -2456,8 +2450,7 @@
             "significado": "Chinese",
             "dia": "2026-05-23",
             "tags": [
-                "school_classes",
-                "vocabulary"
+                "school_classes"
             ],
             "pinyin": "zhōng wén"
         },
@@ -2467,8 +2460,7 @@
             "significado": "Math",
             "dia": "2026-05-23",
             "tags": [
-                "school_classes",
-                "vocabulary"
+                "school_classes"
             ],
             "pinyin": "shù xué"
         },
@@ -2478,8 +2470,7 @@
             "significado": "Science",
             "dia": "2026-05-23",
             "tags": [
-                "school_classes",
-                "vocabulary"
+                "school_classes"
             ],
             "pinyin": "kē xué"
         },
@@ -2489,8 +2480,7 @@
             "significado": "German",
             "dia": "2026-05-23",
             "tags": [
-                "school_classes",
-                "vocabulary"
+                "school_classes"
             ],
             "pinyin": "dé yǔ"
         },
@@ -2500,8 +2490,7 @@
             "significado": "Spanish",
             "dia": "2026-05-23",
             "tags": [
-                "school_classes",
-                "vocabulary"
+                "school_classes"
             ],
             "pinyin": "xī bān yá yǔ"
         },
@@ -2511,8 +2500,7 @@
             "significado": "French",
             "dia": "2026-05-23",
             "tags": [
-                "school_classes",
-                "vocabulary"
+                "school_classes"
             ],
             "pinyin": "fǎ yǔ"
         },
@@ -2522,8 +2510,7 @@
             "significado": "Chatting with friends",
             "dia": "2026-05-23",
             "tags": [
-                "activities",
-                "vocabulary"
+                "activities"
             ],
             "pinyin": "gēn péng you liáotiān"
         },
@@ -2533,8 +2520,7 @@
             "significado": "Running",
             "dia": "2026-05-23",
             "tags": [
-                "activities",
-                "vocabulary"
+                "activities"
             ],
             "pinyin": "pǎo bù"
         },
@@ -2544,8 +2530,7 @@
             "significado": "Playing baseball",
             "dia": "2026-05-23",
             "tags": [
-                "activities",
-                "vocabulary"
+                "activities"
             ],
             "pinyin": "dǎ bàng qiú"
         },
@@ -2555,8 +2540,7 @@
             "significado": "Playing soccer",
             "dia": "2026-05-23",
             "tags": [
-                "activities",
-                "vocabulary"
+                "activities"
             ],
             "pinyin": "tī zú qiú"
         },
@@ -2566,8 +2550,7 @@
             "significado": "Swimming",
             "dia": "2026-05-23",
             "tags": [
-                "activities",
-                "vocabulary"
+                "activities"
             ],
             "pinyin": "yóu yǒng"
         },
@@ -2577,8 +2560,7 @@
             "significado": "Habits",
             "dia": "2026-05-28",
             "tags": [
-                "habits",
-                "vocabulary"
+                "habits"
             ],
             "pinyin": "xí guàn"
         },
@@ -2588,8 +2570,7 @@
             "significado": "Brushing teeth",
             "dia": "2026-05-28",
             "tags": [
-                "habits",
-                "vocabulary"
+                "habits"
             ],
             "pinyin": "shuā yá"
         },
@@ -2599,8 +2580,7 @@
             "significado": "Sleeping",
             "dia": "2026-05-28",
             "tags": [
-                "habits",
-                "vocabulary"
+                "habits"
             ],
             "pinyin": "shuì jiào"
         },
@@ -2610,8 +2590,7 @@
             "significado": "Making breakfast",
             "dia": "2026-05-28",
             "tags": [
-                "habits",
-                "vocabulary"
+                "habits"
             ],
             "pinyin": "zuò zǎo cān"
         },
@@ -2621,8 +2600,7 @@
             "significado": "Joking around",
             "dia": "2026-05-28",
             "tags": [
-                "habits",
-                "vocabulary"
+                "habits"
             ],
             "pinyin": "kāi wán xiào"
         },
@@ -2632,8 +2610,7 @@
             "significado": "Watching Chinese dramas",
             "dia": "2026-05-28",
             "tags": [
-                "habits",
-                "vocabulary"
+                "habits"
             ],
             "pinyin": "kàn diàn shì jù"
         },
@@ -2643,8 +2620,7 @@
             "significado": "Chinese zodiac signs",
             "dia": "2026-06-06",
             "tags": [
-                "zodiac",
-                "vocabulary"
+                "zodiac"
             ],
             "pinyin": "shēng xiào"
         },
@@ -2654,7 +2630,8 @@
             "significado": "suit / to fit",
             "dia": "2026-06-06",
             "tags": [
-                "vocabulary"
+                "verbs",
+                "activities"
             ],
             "pinyin": "shì hé"
         },
@@ -2665,8 +2642,7 @@
             "dia": "2026-06-06",
             "tags": [
                 "animals",
-                "zodiac",
-                "vocabulary"
+                "zodiac"
             ],
             "pinyin": "zhū"
         },
@@ -2677,8 +2653,7 @@
             "dia": "2026-06-06",
             "tags": [
                 "animals",
-                "zodiac",
-                "vocabulary"
+                "zodiac"
             ],
             "pinyin": "gǒu"
         },
@@ -2689,8 +2664,7 @@
             "dia": "2026-06-06",
             "tags": [
                 "animals",
-                "zodiac",
-                "vocabulary"
+                "zodiac"
             ],
             "pinyin": "lóng"
         },
@@ -2701,8 +2675,7 @@
             "dia": "2026-06-06",
             "tags": [
                 "animals",
-                "zodiac",
-                "vocabulary"
+                "zodiac"
             ],
             "pinyin": "mǎ"
         },
@@ -2712,8 +2685,7 @@
             "significado": "Grammatical particle used to shift an object ahead of the verb",
             "dia": "2026-06-06",
             "tags": [
-                "grammar",
-                "vocabulary"
+                "grammar"
             ],
             "pinyin": "bǎ"
         },
@@ -2723,8 +2695,7 @@
             "significado": "Grammatical particle used to indicate passive voice",
             "dia": "2026-06-06",
             "tags": [
-                "grammar",
-                "vocabulary"
+                "grammar"
             ],
             "pinyin": "bèi"
         },
@@ -2734,7 +2705,8 @@
             "significado": "manners; to be polite",
             "dia": "2026-06-06",
             "tags": [
-                "vocabulary"
+                "verbs",
+                "activities"
             ],
             "pinyin": "lǐ mào"
         },
@@ -2744,7 +2716,7 @@
             "significado": "not very polite",
             "dia": "2026-06-06",
             "tags": [
-                "vocabulary"
+                "adjectives"
             ],
             "pinyin": "bú tài lǐ mào"
         },
@@ -2754,7 +2726,7 @@
             "significado": "warmhearted",
             "dia": "2026-06-06",
             "tags": [
-                "vocabulary"
+                "adjectives"
             ],
             "pinyin": "rè qíng"
         },
@@ -2764,7 +2736,8 @@
             "significado": "to have a warm heart",
             "dia": "2026-06-06",
             "tags": [
-                "vocabulary"
+                "verbs",
+                "activities"
             ],
             "pinyin": "yǒu nuǎn xīn"
         },
@@ -2774,7 +2747,7 @@
             "significado": "not wrong; that's right",
             "dia": "2026-06-06",
             "tags": [
-                "vocabulary"
+                "adjectives"
             ],
             "pinyin": "méi cuò"
         },
@@ -2784,7 +2757,8 @@
             "significado": "to tell the truth; TBH",
             "dia": "2026-06-06",
             "tags": [
-                "vocabulary"
+                "verbs",
+                "activities"
             ],
             "pinyin": "shuō shí huà"
         },
@@ -2794,7 +2768,8 @@
             "significado": "to be the opposite",
             "dia": "2026-06-06",
             "tags": [
-                "vocabulary"
+                "verbs",
+                "activities"
             ],
             "pinyin": "xiāng fǎn"
         },
@@ -2805,8 +2780,7 @@
             "dia": "2026-06-06",
             "tags": [
                 "animals",
-                "zodiac",
-                "vocabulary"
+                "zodiac"
             ],
             "pinyin": "yáng"
         },
@@ -2817,8 +2791,7 @@
             "dia": "2026-06-06",
             "tags": [
                 "animals",
-                "zodiac",
-                "vocabulary"
+                "zodiac"
             ],
             "pinyin": "shé"
         },
@@ -2829,8 +2802,7 @@
             "dia": "2026-06-06",
             "tags": [
                 "animals",
-                "zodiac",
-                "vocabulary"
+                "zodiac"
             ],
             "pinyin": "shǔ"
         },
@@ -2840,7 +2812,8 @@
             "significado": "celebrity",
             "dia": "2026-06-06",
             "tags": [
-                "vocabulary"
+                "characters",
+                "language"
             ],
             "pinyin": "míng xīng"
         },
@@ -2850,7 +2823,7 @@
             "significado": "famous person",
             "dia": "2026-06-06",
             "tags": [
-                "vocabulary"
+                "family"
             ],
             "pinyin": "yǒu míng rén"
         },
@@ -2860,8 +2833,7 @@
             "significado": "fire horse",
             "dia": "2026-06-06",
             "tags": [
-                "zodiac",
-                "vocabulary"
+                "zodiac"
             ],
             "pinyin": "huǒ mǎ"
         },
@@ -2871,8 +2843,7 @@
             "significado": "fried egg",
             "dia": "2026-06-06",
             "tags": [
-                "food",
-                "vocabulary"
+                "food"
             ],
             "pinyin": "jiān dàn"
         },
@@ -2882,7 +2853,7 @@
             "significado": "easy; simple",
             "dia": "2026-06-06",
             "tags": [
-                "vocabulary"
+                "adjectives"
             ],
             "pinyin": "jiǎn dān"
         },
@@ -2892,8 +2863,7 @@
             "significado": "grammatical particle indicating past experience",
             "dia": "2026-06-06",
             "tags": [
-                "grammar",
-                "vocabulary"
+                "grammar"
             ],
             "pinyin": "guò"
         },
@@ -2903,8 +2873,7 @@
             "significado": "modal particle indicating suggestion or assumption",
             "dia": "2026-06-06",
             "tags": [
-                "grammar",
-                "vocabulary"
+                "grammar"
             ],
             "pinyin": "ba"
         },
@@ -2914,7 +2883,8 @@
             "significado": "Chinese name",
             "dia": "2026-06-11",
             "tags": [
-                "vocabulary"
+                "education",
+                "school_classes"
             ],
             "pinyin": "zhōngwén míngzi"
         },
@@ -2924,7 +2894,7 @@
             "significado": "minute",
             "dia": "2026-06-11",
             "tags": [
-                "vocabulary"
+                "time"
             ],
             "pinyin": "fēnzhōng"
         },
@@ -2934,7 +2904,7 @@
             "significado": "dragonfly",
             "dia": "2026-06-11",
             "tags": [
-                "vocabulary"
+                "animals"
             ],
             "pinyin": "qīngtíng"
         },
@@ -2944,7 +2914,7 @@
             "significado": "insect",
             "dia": "2026-06-11",
             "tags": [
-                "vocabulary"
+                "animals"
             ],
             "pinyin": "chóngzi"
         },
@@ -2954,7 +2924,6 @@
             "significado": "chicken cracker (traditional snack)",
             "dia": "2026-06-11",
             "tags": [
-                "vocabulary",
                 "food"
             ],
             "pinyin": "jīzǎibǐng"
@@ -2965,7 +2934,6 @@
             "significado": "wedding pastry given out by the groom's family",
             "dia": "2026-06-11",
             "tags": [
-                "vocabulary",
                 "culture",
                 "food"
             ],
@@ -2977,7 +2945,6 @@
             "significado": "sweetheart cake / wife cake",
             "dia": "2026-06-11",
             "tags": [
-                "vocabulary",
                 "food"
             ],
             "pinyin": "lǎopobǐng"
@@ -2988,7 +2955,6 @@
             "significado": "pineapple bun",
             "dia": "2026-06-11",
             "tags": [
-                "vocabulary",
                 "food"
             ],
             "pinyin": "bōluóbāo"
@@ -2999,7 +2965,7 @@
             "significado": "pineapple (commonly used in Mainland China)",
             "dia": "2026-06-11",
             "tags": [
-                "vocabulary"
+                "food"
             ],
             "pinyin": "bōluó"
         },
@@ -3009,7 +2975,7 @@
             "significado": "pineapple (commonly used in Taiwan)",
             "dia": "2026-06-11",
             "tags": [
-                "vocabulary"
+                "food"
             ],
             "pinyin": "fènglí"
         },
@@ -3019,7 +2985,8 @@
             "significado": "soccer",
             "dia": "2026-06-20",
             "tags": [
-                "vocabulary"
+                "characters",
+                "language"
             ],
             "pinyin": "zúqiú"
         },
@@ -3029,7 +2996,8 @@
             "significado": "who",
             "dia": "2026-06-20",
             "tags": [
-                "vocabulary"
+                "grammar",
+                "phrases"
             ],
             "pinyin": "shéi"
         },
@@ -3039,7 +3007,8 @@
             "significado": "which",
             "dia": "2026-06-20",
             "tags": [
-                "vocabulary"
+                "grammar",
+                "phrases"
             ],
             "pinyin": "nǎge"
         },
@@ -3049,7 +3018,8 @@
             "significado": "right side",
             "dia": "2026-06-20",
             "tags": [
-                "vocabulary"
+                "characters",
+                "language"
             ],
             "pinyin": "yòubian"
         },
@@ -3059,7 +3029,8 @@
             "significado": "They are to my right",
             "dia": "2026-06-20",
             "tags": [
-                "vocabulary"
+                "verbs",
+                "activities"
             ],
             "pinyin": "tāmen zài wǒ de yòubiān"
         },
@@ -3069,7 +3040,8 @@
             "significado": "passport",
             "dia": "2026-06-20",
             "tags": [
-                "vocabulary"
+                "characters",
+                "language"
             ],
             "pinyin": "hùzhào"
         },
@@ -3079,7 +3051,8 @@
             "significado": "Chinese American",
             "dia": "2026-06-20",
             "tags": [
-                "vocabulary"
+                "education",
+                "school_classes"
             ],
             "pinyin": "měiguó huárén"
         },
@@ -3089,7 +3062,8 @@
             "significado": "state",
             "dia": "2026-06-20",
             "tags": [
-                "vocabulary"
+                "places",
+                "geography"
             ],
             "pinyin": "zhōu"
         },
@@ -3099,7 +3073,8 @@
             "significado": "California",
             "dia": "2026-06-20",
             "tags": [
-                "vocabulary"
+                "places",
+                "geography"
             ],
             "pinyin": "jiāzhōu"
         },
@@ -3109,7 +3084,8 @@
             "significado": "DiDi - transportation app like Uber in China",
             "dia": "2026-06-20",
             "tags": [
-                "vocabulary"
+                "transportation",
+                "technology"
             ],
             "pinyin": "dīdī"
         },
@@ -3119,7 +3095,8 @@
             "significado": "Alipay",
             "dia": "2026-06-20",
             "tags": [
-                "vocabulary"
+                "transportation",
+                "technology"
             ],
             "pinyin": "zhīfùbǎo"
         },
@@ -3129,7 +3106,8 @@
             "significado": "to participate / to take part in",
             "dia": "2026-06-20",
             "tags": [
-                "vocabulary"
+                "verbs",
+                "activities"
             ],
             "pinyin": "cānjiā"
         },
@@ -3139,7 +3117,8 @@
             "significado": "to introduce / introduction",
             "dia": "2026-06-20",
             "tags": [
-                "vocabulary"
+                "verbs",
+                "activities"
             ],
             "pinyin": "jièshào"
         },
@@ -3149,7 +3128,7 @@
             "significado": "bald eagle",
             "dia": "2026-06-25",
             "tags": [
-                "vocabulary"
+                "animals"
             ],
             "pinyin": "báitóuyīng"
         },
@@ -3159,7 +3138,8 @@
             "significado": "ethnic group / community",
             "dia": "2026-06-25",
             "tags": [
-                "vocabulary"
+                "characters",
+                "language"
             ],
             "pinyin": "zúqún"
         },
@@ -3169,7 +3149,8 @@
             "significado": "group / organization",
             "dia": "2026-06-25",
             "tags": [
-                "vocabulary"
+                "characters",
+                "language"
             ],
             "pinyin": "zǔ"
         },
@@ -3179,7 +3160,8 @@
             "significado": "group (ex: our Chinese group)",
             "dia": "2026-06-25",
             "tags": [
-                "vocabulary"
+                "education",
+                "school_classes"
             ],
             "pinyin": "tuántǐ"
         },
@@ -3189,7 +3171,7 @@
             "significado": "group / team",
             "dia": "2026-06-25",
             "tags": [
-                "vocabulary"
+                "food"
             ],
             "pinyin": "duì"
         },
@@ -3199,7 +3181,8 @@
             "significado": "circle (ex: circle of friends)",
             "dia": "2026-06-25",
             "tags": [
-                "vocabulary"
+                "characters",
+                "language"
             ],
             "pinyin": "quān"
         },
@@ -3209,7 +3192,8 @@
             "significado": "Chinese Conversation Group",
             "dia": "2026-06-25",
             "tags": [
-                "vocabulary"
+                "education",
+                "school_classes"
             ],
             "pinyin": "zhōngwénduìhuàtuán"
         },
@@ -3219,7 +3203,8 @@
             "significado": "Mandarin exchange class",
             "dia": "2026-06-25",
             "tags": [
-                "vocabulary"
+                "education",
+                "school_classes"
             ],
             "pinyin": "zhōngwénpǔtōnghuàjiāoliúbān"
         },
@@ -3229,7 +3214,8 @@
             "significado": "don't",
             "dia": "2026-06-25",
             "tags": [
-                "vocabulary"
+                "grammar",
+                "phrases"
             ],
             "pinyin": "bié"
         },
@@ -3239,7 +3225,8 @@
             "significado": "scold",
             "dia": "2026-06-25",
             "tags": [
-                "vocabulary"
+                "verbs",
+                "activities"
             ],
             "pinyin": "mà"
         },
@@ -3249,7 +3236,8 @@
             "significado": "of course",
             "dia": "2026-06-25",
             "tags": [
-                "vocabulary"
+                "characters",
+                "language"
             ],
             "pinyin": "dāngrán"
         },
@@ -3259,7 +3247,8 @@
             "significado": "don't scold me",
             "dia": "2026-06-25",
             "tags": [
-                "vocabulary"
+                "verbs",
+                "activities"
             ],
             "pinyin": "biémàwǒ"
         },
@@ -3269,7 +3258,8 @@
             "significado": "8 people",
             "dia": "2026-06-25",
             "tags": [
-                "vocabulary"
+                "education",
+                "school_classes"
             ],
             "pinyin": "bāgèrén"
         },
@@ -3279,7 +3269,8 @@
             "significado": "scenery",
             "dia": "2026-06-25",
             "tags": [
-                "vocabulary"
+                "characters",
+                "language"
             ],
             "pinyin": "fēngjǐng"
         },
@@ -3289,7 +3280,7 @@
             "significado": "wildlife",
             "dia": "2026-06-25",
             "tags": [
-                "vocabulary"
+                "misc"
             ],
             "pinyin": "yěshēngdòngwù"
         },
@@ -3299,7 +3290,8 @@
             "significado": "weather",
             "dia": "2026-06-25",
             "tags": [
-                "vocabulary"
+                "verbs",
+                "activities"
             ],
             "pinyin": "tiānqì"
         },
@@ -3309,7 +3301,8 @@
             "significado": "roses",
             "dia": "2026-06-25",
             "tags": [
-                "vocabulary"
+                "characters",
+                "language"
             ],
             "pinyin": "méigui"
         },
@@ -3319,7 +3312,8 @@
             "significado": "film culture",
             "dia": "2026-06-25",
             "tags": [
-                "vocabulary"
+                "culture",
+                "arts"
             ],
             "pinyin": "diànyǐngwénhuà"
         },
@@ -3329,7 +3323,7 @@
             "significado": "weird",
             "dia": "2026-07-09",
             "tags": [
-                "vocabulary"
+                "adjectives"
             ],
             "pinyin": "qíguài"
         },
@@ -3339,7 +3333,7 @@
             "significado": "interesting",
             "dia": "2026-07-09",
             "tags": [
-                "vocabulary"
+                "adjectives"
             ],
             "pinyin": "yǒuqù"
         },
@@ -3349,7 +3343,7 @@
             "significado": "stinky tofu",
             "dia": "2026-07-09",
             "tags": [
-                "vocabulary"
+                "food"
             ],
             "pinyin": "chòudòufu"
         },
@@ -3359,7 +3353,8 @@
             "significado": "city life",
             "dia": "2026-07-18",
             "tags": [
-                "vocabulary"
+                "places",
+                "geography"
             ],
             "pinyin": "chéngshì shēnghuó"
         },
@@ -3369,7 +3364,7 @@
             "significado": "country life",
             "dia": "2026-07-18",
             "tags": [
-                "vocabulary"
+                "misc"
             ],
             "pinyin": "xiāngcūn shēnghuó"
         },
@@ -3379,7 +3374,7 @@
             "significado": "convenient",
             "dia": "2026-07-18",
             "tags": [
-                "vocabulary"
+                "adjectives"
             ],
             "pinyin": "fāngbiàn"
         },
@@ -3389,7 +3384,8 @@
             "significado": "bookstore",
             "dia": "2026-07-18",
             "tags": [
-                "vocabulary"
+                "places",
+                "geography"
             ],
             "pinyin": "shūdiàn"
         },
@@ -3399,7 +3395,8 @@
             "significado": "public transit",
             "dia": "2026-07-18",
             "tags": [
-                "vocabulary"
+                "transportation",
+                "technology"
             ],
             "pinyin": "gōnggòng jiāotōng"
         },
@@ -3409,7 +3406,8 @@
             "significado": "Chinese Festival",
             "dia": "2026-07-23",
             "tags": [
-                "vocabulary"
+                "education",
+                "school_classes"
             ],
             "pinyin": "huá rén wén huà jié"
         },
@@ -3419,7 +3417,8 @@
             "significado": "ink painting",
             "dia": "2026-07-23",
             "tags": [
-                "vocabulary"
+                "culture",
+                "arts"
             ],
             "pinyin": "shuǐ mò huà"
         },
@@ -3429,7 +3428,8 @@
             "significado": "Hanfu try-on",
             "dia": "2026-07-23",
             "tags": [
-                "vocabulary"
+                "culture",
+                "arts"
             ],
             "pinyin": "hàn fú shì chuān"
         },
@@ -3439,7 +3439,8 @@
             "significado": "woodblock prints",
             "dia": "2026-07-23",
             "tags": [
-                "vocabulary"
+                "characters",
+                "language"
             ],
             "pinyin": "bǎn huà"
         },
@@ -3449,7 +3450,8 @@
             "significado": "calligraphy",
             "dia": "2026-07-23",
             "tags": [
-                "vocabulary"
+                "culture",
+                "arts"
             ],
             "pinyin": "shū fǎ"
         },
@@ -3459,7 +3461,7 @@
             "significado": "eat good food",
             "dia": "2026-07-23",
             "tags": [
-                "vocabulary"
+                "food"
             ],
             "pinyin": "chī měi shí"
         },
@@ -3469,7 +3471,8 @@
             "significado": "see martial arts",
             "dia": "2026-07-23",
             "tags": [
-                "vocabulary"
+                "education",
+                "school_classes"
             ],
             "pinyin": "kàn wǔ shù"
         },
@@ -3479,7 +3482,8 @@
             "significado": "see dance performances",
             "dia": "2026-07-23",
             "tags": [
-                "vocabulary"
+                "education",
+                "school_classes"
             ],
             "pinyin": "kàn wǔ dǎo biǎo yǎn"
         },
@@ -3489,7 +3493,7 @@
             "significado": "ugly person",
             "dia": "2026-07-23",
             "tags": [
-                "vocabulary"
+                "family"
             ],
             "pinyin": "chǒu rén"
         },
@@ -3499,7 +3503,7 @@
             "significado": "smelly person",
             "dia": "2026-07-23",
             "tags": [
-                "vocabulary"
+                "family"
             ],
             "pinyin": "chòu rén"
         },
@@ -3509,7 +3513,8 @@
             "significado": "hesitant to eat squid",
             "dia": "2026-07-23",
             "tags": [
-                "vocabulary"
+                "verbs",
+                "activities"
             ],
             "pinyin": "yóu yù chī yóu yú"
         }
