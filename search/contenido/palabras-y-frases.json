@@ -3517,6 +3517,99 @@
                 "activities"
             ],
             "pinyin": "yóu yù chī yóu yú"
+        },
+        {
+            "id": 338,
+            "contenido": "不得不",
+            "significado": "Have no choice but to",
+            "dia": "2026-08-06",
+            "tags": [
+                "verbs",
+                "phrases"
+            ],
+            "pinyin": "bù dé bù"
+        },
+        {
+            "id": 339,
+            "contenido": "上厕所",
+            "significado": "Go to the bathroom",
+            "dia": "2026-08-06",
+            "tags": [
+                "verbs",
+                "activities"
+            ],
+            "pinyin": "shàng cè suǒ"
+        },
+        {
+            "id": 340,
+            "contenido": "小丑",
+            "significado": "Clown",
+            "dia": "2026-08-06",
+            "tags": [
+                "nouns",
+                "people"
+            ],
+            "pinyin": "xiǎo chǒu"
+        },
+        {
+            "id": 341,
+            "contenido": "火鸡",
+            "significado": "Turkey",
+            "dia": "2026-08-06",
+            "tags": [
+                "nouns",
+                "animals",
+                "birds"
+            ],
+            "pinyin": "huǒ jī"
+        },
+        {
+            "id": 342,
+            "contenido": "丑小鸭",
+            "significado": "Ugly duckling",
+            "dia": "2026-08-06",
+            "tags": [
+                "nouns",
+                "animals",
+                "birds"
+            ],
+            "pinyin": "chǒu xiǎo yā"
+        },
+        {
+            "id": 343,
+            "contenido": "天鹅",
+            "significado": "Swan",
+            "dia": "2026-08-06",
+            "tags": [
+                "nouns",
+                "animals",
+                "birds"
+            ],
+            "pinyin": "tiān é"
+        },
+        {
+            "id": 344,
+            "contenido": "招聘专员",
+            "significado": "Recruiter",
+            "dia": "2026-08-06",
+            "tags": [
+                "nouns",
+                "jobs",
+                "people"
+            ],
+            "pinyin": "zhāo pìn zhuān yuán"
+        },
+        {
+            "id": 345,
+            "contenido": "波江座",
+            "significado": "Eridanus (constellation)",
+            "dia": "2026-08-06",
+            "tags": [
+                "nouns",
+                "space",
+                "science"
+            ],
+            "pinyin": "bō jiāng zuò"
         }
     ]
 }

@@ -1,16 +1,17 @@
 Take chinese words from the following text and create entries using this structure.
 
 {
-    "id": 287,
-    "contenido": "凤梨",
-    "significado": "pineapple (commonly used in Taiwan)",
-    "dia": "2026-06-11",
+    "id": 337,
+    "contenido": "犹豫吃鱿鱼",
+    "significado": "hesitant to eat squid",
+    "dia": "2026-07-23",
     "tags": [
-        "vocabulary"
+        "verbs",
+        "activities"
     ],
-    "pinyin": "fènglí"
+    "pinyin": "yóu yù chī yóu yú"
 }
 
-start at 327
+start at 338
 
-dia is 2026-07-23
+dia is 2026-08-06
