@@ -3610,6 +3610,74 @@
                 "science"
             ],
             "pinyin": "bō jiāng zuò"
+        },
+        {
+            "id": 346,
+            "contenido": "最自豪的成就",
+            "significado": "proudest accomplishments",
+            "dia": "2026-08-15",
+            "tags": [
+                "nouns",
+                "phrases"
+            ],
+            "pinyin": "zuì zì háo de chéng jiù"
+        },
+        {
+            "id": 347,
+            "contenido": "从大学毕业",
+            "significado": "graduating from college",
+            "dia": "2026-08-15",
+            "tags": [
+                "verbs",
+                "activities"
+            ],
+            "pinyin": "cóng dà xué bì yè"
+        },
+        {
+            "id": 348,
+            "contenido": "弹吉他",
+            "significado": "playing guitar",
+            "dia": "2026-08-15",
+            "tags": [
+                "verbs",
+                "activities",
+                "music"
+            ],
+            "pinyin": "tán jí tā"
+        },
+        {
+            "id": 349,
+            "contenido": "弹钢琴",
+            "significado": "playing piano",
+            "dia": "2026-08-15",
+            "tags": [
+                "verbs",
+                "activities",
+                "music"
+            ],
+            "pinyin": "tán gāng qín"
+        },
+        {
+            "id": 350,
+            "contenido": "人生建议",
+            "significado": "life advice",
+            "dia": "2026-08-20",
+            "tags": [
+                "nouns",
+                "phrases"
+            ],
+            "pinyin": "rén shēng jiàn yì"
+        },
+        {
+            "id": 351,
+            "contenido": "进步",
+            "significado": "improve",
+            "dia": "2026-08-20",
+            "tags": [
+                "verbs",
+                "nouns"
+            ],
+            "pinyin": "jìn bù"
         }
     ]
 }
