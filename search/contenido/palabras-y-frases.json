@@ -3678,6 +3678,278 @@
                 "nouns"
             ],
             "pinyin": "jìn bù"
+        },
+        {
+            "id": 352,
+            "contenido": "现场办公",
+            "significado": "in-person work",
+            "dia": "2026-08-29",
+            "tags": [
+                "work",
+                "activities"
+            ],
+            "pinyin": "xiàn chǎng bàn gōng"
+        },
+        {
+            "id": 353,
+            "contenido": "混合办公",
+            "significado": "hybrid work",
+            "dia": "2026-08-29",
+            "tags": [
+                "work",
+                "activities"
+            ],
+            "pinyin": "hùn hé bàn gōng"
+        },
+        {
+            "id": 354,
+            "contenido": "远程办公",
+            "significado": "remote work",
+            "dia": "2026-08-29",
+            "tags": [
+                "work",
+                "activities"
+            ],
+            "pinyin": "yuǎn chéng bàn gōng"
+        },
+        {
+            "id": 355,
+            "contenido": "有毒",
+            "significado": "toxic",
+            "dia": "2026-08-29",
+            "tags": [
+                "adjectives",
+                "descriptions"
+            ],
+            "pinyin": "yǒu dú"
+        },
+        {
+            "id": 356,
+            "contenido": "新冠",
+            "significado": "COVID-19",
+            "dia": "2026-08-29",
+            "tags": [
+                "nouns",
+                "health"
+            ],
+            "pinyin": "xīn guān"
+        },
+        {
+            "id": 357,
+            "contenido": "你今年芳龄",
+            "significado": "how old are you (towards young women)",
+            "dia": "2026-08-29",
+            "tags": [
+                "phrases",
+                "greetings"
+            ],
+            "pinyin": "nǐ jīn nián fāng líng"
+        },
+        {
+            "id": 358,
+            "contenido": "高寿",
+            "significado": "ask the age of old people",
+            "dia": "2026-08-29",
+            "tags": [
+                "nouns",
+                "greetings"
+            ],
+            "pinyin": "gāo shòu"
+        },
+        {
+            "id": 359,
+            "contenido": "瞎猫碰上死耗子",
+            "significado": "A blind cat finds a dead mouse (blind luck)",
+            "dia": "2026-09-03",
+            "tags": [
+                "idioms",
+                "phrases"
+            ],
+            "pinyin": "xiā māo pèng shàng sǐ hào zi"
+        },
+        {
+            "id": 360,
+            "contenido": "千里之行，始于足下",
+            "significado": "A thousand-mile journey starts with one step",
+            "dia": "2026-09-03",
+            "tags": [
+                "idioms",
+                "phrases"
+            ],
+            "pinyin": "qiān lǐ zhī xíng, shǐ yú zú xià"
+        },
+        {
+            "id": 361,
+            "contenido": "野火烧不尽，春风吹又生",
+            "significado": "Even a wildfire can’t destroy the grass, it grows again when the spring breeze blows",
+            "dia": "2026-09-03",
+            "tags": [
+                "idioms",
+                "phrases"
+            ],
+            "pinyin": "yě huǒ shāo bù jìn, chūn fēng chuī yòu shēng"
+        },
+        {
+            "id": 362,
+            "contenido": "乱七八糟",
+            "significado": "Messy/in disorder",
+            "dia": "2026-09-03",
+            "tags": [
+                "idioms",
+                "adjectives"
+            ],
+            "pinyin": "luàn qī bā zāo"
+        },
+        {
+            "id": 363,
+            "contenido": "礼尚往来",
+            "significado": "Courtesy demands reciprocity",
+            "dia": "2026-09-03",
+            "tags": [
+                "idioms",
+                "phrases"
+            ],
+            "pinyin": "lǐ shàng wǎng lái"
+        },
+        {
+            "id": 364,
+            "contenido": "七上八下",
+            "significado": "In a mess/be agitated",
+            "dia": "2026-09-03",
+            "tags": [
+                "idioms",
+                "adjectives"
+            ],
+            "pinyin": "qī shàng bā xià"
+        },
+        {
+            "id": 365,
+            "contenido": "忐忑不安",
+            "significado": "Uneasy/anxious",
+            "dia": "2026-09-03",
+            "tags": [
+                "idioms",
+                "adjectives"
+            ],
+            "pinyin": "tǎn tè bù ān"
+        },
+        {
+            "id": 366,
+            "contenido": "前车之鉴",
+            "significado": "A lesson from the cart ahead (learn from other people’s mistakes)",
+            "dia": "2026-09-03",
+            "tags": [
+                "idioms",
+                "nouns"
+            ],
+            "pinyin": "qián chē zhī jiàn"
+        },
+        {
+            "id": 367,
+            "contenido": "佥",
+            "significado": "Unanimously",
+            "dia": "2026-09-12",
+            "tags": [
+                "adverbs",
+                "descriptions"
+            ],
+            "pinyin": "qiān"
+        },
+        {
+            "id": 368,
+            "contenido": "书",
+            "significado": "Book",
+            "dia": "2026-09-12",
+            "tags": [
+                "nouns"
+            ],
+            "pinyin": "shū"
+        },
+        {
+            "id": 369,
+            "contenido": "画",
+            "significado": "Painting",
+            "dia": "2026-09-12",
+            "tags": [
+                "nouns",
+                "activities"
+            ],
+            "pinyin": "huà"
+        },
+        {
+            "id": 370,
+            "contenido": "让",
+            "significado": "Let/allow/make/give way",
+            "dia": "2026-09-12",
+            "tags": [
+                "verbs"
+            ],
+            "pinyin": "ràng"
+        },
+        {
+            "id": 371,
+            "contenido": "丰",
+            "significado": "Rich/abundant",
+            "dia": "2026-09-12",
+            "tags": [
+                "adjectives"
+            ],
+            "pinyin": "fēng"
+        },
+        {
+            "id": 372,
+            "contenido": "凹凸",
+            "significado": "Uneven/bumpy",
+            "dia": "2026-09-12",
+            "tags": [
+                "adjectives",
+                "descriptions"
+            ],
+            "pinyin": "āo tú"
+        },
+        {
+            "id": 373,
+            "contenido": "姐姐",
+            "significado": "older sister (in context: cousin)",
+            "dia": "2026-09-12",
+            "tags": [
+                "nouns",
+                "family"
+            ],
+            "pinyin": "jiě jie"
+        },
+        {
+            "id": 374,
+            "contenido": "贷款",
+            "significado": "Loan/credit",
+            "dia": "2026-09-12",
+            "tags": [
+                "nouns",
+                "finance"
+            ],
+            "pinyin": "dài kuǎn"
+        },
+        {
+            "id": 375,
+            "contenido": "存款",
+            "significado": "Deposit/savings",
+            "dia": "2026-09-12",
+            "tags": [
+                "nouns",
+                "finance"
+            ],
+            "pinyin": "cún kuǎn"
+        },
+        {
+            "id": 376,
+            "contenido": "消费",
+            "significado": "To consume",
+            "dia": "2026-09-12",
+            "tags": [
+                "verbs",
+                "finance"
+            ],
+            "pinyin": "xiāo fèi"
         }
     ]
 }
