@@ -3950,6 +3950,182 @@
                 "finance"
             ],
             "pinyin": "xiāo fèi"
+        },
+        {
+            "id": 377,
+            "contenido": "浪漫",
+            "significado": "Romantic",
+            "dia": "2026-09-17",
+            "tags": [
+                "daily conversation",
+                "adjectives"
+            ],
+            "pinyin": "làng màn"
+        },
+        {
+            "id": 378,
+            "contenido": "秘密",
+            "significado": "Secret",
+            "dia": "2026-09-17",
+            "tags": [
+                "daily conversation",
+                "nouns"
+            ],
+            "pinyin": "mì mì"
+        },
+        {
+            "id": 379,
+            "contenido": "滷蛋 / 卤蛋",
+            "significado": "Braised eggs",
+            "dia": "2026-09-17",
+            "tags": [
+                "food",
+                "daily conversation"
+            ],
+            "pinyin": "lǔ dàn"
+        },
+        {
+            "id": 380,
+            "contenido": "闖紅燈 / 闯红灯",
+            "significado": "To run a red light",
+            "dia": "2026-09-17",
+            "tags": [
+                "traffic",
+                "daily conversation"
+            ],
+            "pinyin": "chuǎng hóng dēng"
+        },
+        {
+            "id": 381,
+            "contenido": "機器人 / 机器人",
+            "significado": "Robot",
+            "dia": "2026-09-17",
+            "tags": [
+                "technology",
+                "daily conversation"
+            ],
+            "pinyin": "jī qì rén"
+        },
+        {
+            "id": 382,
+            "contenido": "遛狗",
+            "significado": "To walk the dog",
+            "dia": "2026-09-17",
+            "tags": [
+                "daily conversation",
+                "activities"
+            ],
+            "pinyin": "liù gǒu"
+        },
+        {
+            "id": 383,
+            "contenido": "貓 / 猫",
+            "significado": "Cat",
+            "dia": "2026-09-17",
+            "tags": [
+                "animals",
+                "daily conversation"
+            ],
+            "pinyin": "māo"
+        },
+        {
+            "id": 384,
+            "contenido": "打掃 / 打扫",
+            "significado": "Cleaning / to clean",
+            "dia": "2026-09-17",
+            "tags": [
+                "daily conversation",
+                "activities"
+            ],
+            "pinyin": "dǎ sǎo"
+        },
+        {
+            "id": 385,
+            "contenido": "牛奶",
+            "significado": "Milk",
+            "dia": "2026-09-26",
+            "tags": [
+                "food",
+                "shopping"
+            ],
+            "pinyin": "niú nǎi"
+        },
+        {
+            "id": 386,
+            "contenido": "水",
+            "significado": "Water",
+            "dia": "2026-09-26",
+            "tags": [
+                "food",
+                "shopping"
+            ],
+            "pinyin": "shuǐ"
+        },
+        {
+            "id": 387,
+            "contenido": "沙丁魚 / 沙丁鱼",
+            "significado": "Sardines",
+            "dia": "2026-09-26",
+            "tags": [
+                "food",
+                "shopping"
+            ],
+            "pinyin": "shā dīng yú"
+        },
+        {
+            "id": 388,
+            "contenido": "零食",
+            "significado": "Snacks",
+            "dia": "2026-09-26",
+            "tags": [
+                "food",
+                "shopping"
+            ],
+            "pinyin": "líng shí"
+        },
+        {
+            "id": 389,
+            "contenido": "茄子",
+            "significado": "Eggplant",
+            "dia": "2026-09-26",
+            "tags": [
+                "food",
+                "shopping"
+            ],
+            "pinyin": "qié zi"
+        },
+        {
+            "id": 390,
+            "contenido": "甜點 / 甜点",
+            "significado": "Sweets",
+            "dia": "2026-09-26",
+            "tags": [
+                "food",
+                "shopping"
+            ],
+            "pinyin": "tián diǎn"
+        },
+        {
+            "id": 391,
+            "contenido": "奶酪",
+            "significado": "Cheese",
+            "dia": "2026-09-26",
+            "tags": [
+                "food",
+                "shopping"
+            ],
+            "pinyin": "nǎi lào"
+        },
+        {
+            "id": 392,
+            "contenido": "零食",
+            "significado": "Snacks",
+            "dia": "2026-09-26",
+            "tags": [
+                "food",
+                "shopping"
+            ],
+            "pinyin": "líng shí"
         }
     ]
 }
