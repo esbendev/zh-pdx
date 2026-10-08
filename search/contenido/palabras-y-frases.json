@@ -4126,6 +4126,83 @@
                 "shopping"
             ],
             "pinyin": "líng shí"
+        },
+        {
+            "id": 393,
+            "contenido": "中秋節 / 中秋节",
+            "significado": "Mid-Autumn Festival",
+            "dia": "2026-10-01",
+            "tags": [
+                "holiday",
+                "festival"
+            ],
+            "pinyin": "zhōng qiū jié"
+        },
+        {
+            "id": 394,
+            "contenido": "月餅 / 月饼",
+            "significado": "mooncake",
+            "dia": "2026-10-01",
+            "tags": [
+                "food",
+                "holiday"
+            ],
+            "pinyin": "yuè bǐng"
+        },
+        {
+            "id": 395,
+            "contenido": "蓮蓉 / 莲蓉",
+            "significado": "lotus seed paste",
+            "dia": "2026-10-01",
+            "tags": [
+                "food",
+                "flavor"
+            ],
+            "pinyin": "lián róng"
+        },
+        {
+            "id": 396,
+            "contenido": "紅豆沙 / 红豆沙",
+            "significado": "red bean paste",
+            "dia": "2026-10-01",
+            "tags": [
+                "food",
+                "flavor"
+            ],
+            "pinyin": "hóng dòu shā"
+        },
+        {
+            "id": 397,
+            "contenido": "五仁",
+            "significado": "five nut (flavor)",
+            "dia": "2026-10-01",
+            "tags": [
+                "food",
+                "flavor"
+            ],
+            "pinyin": "wǔ rén"
+        },
+        {
+            "id": 398,
+            "contenido": "蛋黃 / 蛋黄",
+            "significado": "egg yolk",
+            "dia": "2026-10-01",
+            "tags": [
+                "food",
+                "flavor"
+            ],
+            "pinyin": "dàn huáng"
+        },
+        {
+            "id": 399,
+            "contenido": "肉餡月餅 / 肉馅月饼",
+            "significado": "mooncakes with meat filling",
+            "dia": "2026-10-01",
+            "tags": [
+                "food",
+                "flavor"
+            ],
+            "pinyin": "ròu xiàn yuè bǐng"
         }
     ]
 }
